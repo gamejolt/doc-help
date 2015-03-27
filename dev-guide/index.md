@@ -4,8 +4,6 @@
 
 The first step is creating a developer account. If you're reading this, there's a good chance you already have a developer account on Game Jolt. If not, read on.
 
-  
-
 If you don't have a Game Jolt account at all, go ahead and [sign up](http://gamejolt.com/auth/sign_up/) for one.   
 
 If you already have a gamer account on Game Jolt, it's a cinch to become a developer. Just hover your mouse over "Dashboard" (on the navigation bar at the top of the page) until a new menu appears, then click/tap "Become a Developer".
@@ -133,8 +131,6 @@ It's hard to stress the importance of thumbnails enough. These little images can
 
 Think of your game's thumbnail as its box cover if it was sold off a shelf in a store (they used to do that, you know). It should attract attention and give an impression of what the game is like. 
 
-  
-
 A good thumbnail should be more than just a title floating on a blank background. Many good thumbnails are simply well-framed screenshots with the game's title added. Other good ones are images created specifically for the thumbnail using art from the game.
 
 Don't stress too much about getting your image to the correct size; there's a handy cropper tool to make it easy for you. But you should still start out with a high-quality original image (see the recommendations below, under "Thumbnail Specifications").
@@ -214,8 +210,6 @@ Note that if your game is a work-in-progress and you haven't posted a build, vid
 ### Music
 
 Music is another thing that humans love. If someone likes your game's music, they might want to download it. So why not make it easy for them? To add a song to your game page, just upload an MP3 and give it a title.
-
-  
 
 There is also a little thing called [Game Jolt Radio](http://gamejolt.fm/) that streams random tracks from the site. Uploading songs gets your game's music added to the pool. 
 
