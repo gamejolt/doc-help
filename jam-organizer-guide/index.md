@@ -105,24 +105,19 @@ Welcome to the Jam Overview. If you click the Manage Jam link, you'll arrive her
 - Nav: This is the navigation bar that sits underneath the header and above the content. You can choose the bar's background color, as well as the color and font of the links on it. You can also set the colors of the active tab (for example, "Home" if you're on the homepage), and you can make those colors change upon hovering. 
 - Countdown Timer: Lastly, we come to the countdown timer that appears on the jam's header. Your choice here is rather cut and dried. You can give the countdown timer a dark or light theme color. Which one you choose should depend on which one looks better against the header image. 
 - Save Theme: Remember to save your work after you're done tinkering by clicking the Save Theme button. 
-  
 
 ### Edit Jam
 
 This tab contains most of the information you entered when you were creating the jam. There is also a new, extremely important setting that was not present on the Create a Jam page: the jam's visibility.
 
-  
-
-- Editing: You can edit the jam's name, hashtags, description, and tracking ID at any time, though you should probably avoid it once the jam has begun. The start date/time can be altered any time before the jam begins, and the end date/time can be changed any time before it actually ends. 
-- Setting the Visibility: There are three possibilities. 
-    1. Hidden: All jams start out hidden. As long as a jam remains hidden, only the jam's organizer(s) can view it. 
-    2. Unlisted: When you un-hide an unlisted jam, it is published and anyone with the URL can visit the site. However, an unlisted jam will not appear in the [public listing of active jams](http://jams.gamejolt.com/browse/active). This is a good choice for you if you want to run a small, private jam. Sure, it's possible that someone could stumble across it and try to submit a game, but as organizer, you have the ability to reject entries. 
-    3. Visible: Making a jam visible will unleash it upon the world for any and all to see. It will show up in the [list of active jams](http://jams.gamejolt.com/browse/active). 
-
-- Previewing: Before you un-hide your jam, or before you publish any new cosmetic alterations, you might want to see how it will look through the eyes of a non-organizer. Simply click View Jam in the top right. Once you're done surveying your new page, you can go back to editing it (click Edit Page) or return to the jam overview (Manage Jam). 
-- Saving: After making any changes that you want to keep, be sure to click Save Jam. 
-- Deleting a Jam: If you want to get rid of a jam, you can do it here. See those 3 little dots in the upper right next to Edit Jam?  Cick them, then click Remove Jam. Be sure you want to delete the jam; this action is irreversible. 
-  
+- **Editing:** You can edit the jam's name, hashtags, description, and tracking ID at any time, though you should probably avoid it once the jam has begun. The start date/time can be altered any time before the jam begins, and the end date/time can be changed any time before it actually ends. 
+- **Setting the Visibility:** There are three possibilities. 
+    1. **Hidden:** All jams start out hidden. As long as a jam remains hidden, only the jam's organizer(s) can view it. 
+    2. **Unlisted:** When you un-hide an unlisted jam, it is published and anyone with the URL can visit the site. However, an unlisted jam will not appear in the [public listing of active jams](http://jams.gamejolt.com/browse/active). This is a good choice for you if you want to run a small, private jam. Sure, it's possible that someone could stumble across it and try to submit a game, but as organizer, you have the ability to reject entries. 
+    3. **Visible:** Making a jam visible will unleash it upon the world for any and all to see. It will show up in the [list of active jams](http://jams.gamejolt.com/browse/active). 
+- **Previewing:** Before you un-hide your jam, or before you publish any new cosmetic alterations, you might want to see how it will look through the eyes of a non-organizer. Simply click View Jam in the top right. Once you're done surveying your new page, you can go back to editing it (click Edit Page) or return to the jam overview (Manage Jam). 
+- **Saving:** After making any changes that you want to keep, be sure to click Save Jam. 
+- **Deleting a Jam:** If you want to get rid of a jam, you can do it here. See those 3 little dots in the upper right next to Edit Jam?  Cick them, then click Remove Jam. Be sure you want to delete the jam; this action is irreversible. 
 
 ### Jam Organizers
 
@@ -132,32 +127,25 @@ This page lists all organizers of the jam and allows you to add new ones. As the
 
 This is where you add content to your jam's header and webpages, and where you add new pages. Every jam starts with two pages: Home and Games. If you enable livestreaming, your jam will also have a Livestreaming page. You can create any other pages you like. Also, you can change the order in which pages appear on the jam's navigation bar by dragging the pages to another spot on the list (grab the double arrow to the right of each page title to drag them). 
 
-- Header: Click the Edit Content button to, well, edit the text in the jam header. You'll see that the header is pre-populated with the jam name as a heading and the countdown timer widget below it. Don't be verbose here. Remember that the header will appear atop every jam page and the image, jam name, and countdown are often enough to put there. You can use [Markdown](http://jams.gamejolt.com/help/markdown) to style your header text, just as you can on the homepage (see next bullet point).  
-- Home: Your jam's homepage should contain enough information to let any reader know what the jam is all about. Writing and editing content on jam pages is done in [Markdown](http://jams.gamejolt.com/help/markdown), which is easy to use and allows you to do things like styling text and adding links and images. You can add video or audio snippets to your page by [using widgets](http://jams.gamejolt.com/help/widgets). Any or all of the following information could go on the homepage: 
-    - Dates: When does the jam start and when does it end? Be specific. 
-    - Rules: Even the most laid back jam could use a few rules to guide participants. If the rules are numerous and/or complex, you might want to create a new page to put them on (see Organizer Created Pages, below). 
-    - How to Submit: It is essential to explain to participants how to enter games in the jam. In case you don't know, they do this by adding a game to Game Jolt and putting the jam hashtag anywhere in the game's description. 
-    - Theme: If your jam has a theme, the homepage is the place to announce it. If you're not revealing the theme until the jam starts, you can let participants know that. You can even tease the theme, or explain how it will be chosen. And if you're announcing your theme at the start of the jam, remember to update your homepage when the time comes! 
-    - Judging: If the jam is a competition, let everyone know how the games will be judged. Will voting be open to anyone or only to people who have entered a game in the jam? If a jury will be picking the winners, people would probably like to know who's on the jury. 
-    - Contact: This info is all too often left off of homepages. If people have questions about the jam, who do they contact and how? It's a good idea to provide an email address or at least a Twitter handle. If you don't want people sending questions to your personal email address, you could always create a new one just for the jam. 
-
-  
-
-- Games: This page will display all the games that have been entered in the jam. You can hide games or accept late entries via the Game Entries tab (see below). Here, you can set the page's visibility on or off. The Games page is visible by default, but you can hide it if you wish. 
-- Organizer Created Pages: To create a new page for your jam site, click Add a Page (located under the list of pages). Next, you'll need to give your new page a title and a URL. The page title will appear as a link on your jam's navigation bar. Ideally, the URL should be similar to the title. Once created, the page will show up in the list of pages.  
-    - Editing and Visibility: After creating a new page, you can add and edit content (see "Home", above). All organizer created pages start out hidden, so click the Visibility switch from Off to On when you're ready for yours to be viewable. 
-    - Examples: Since Game Jolt Jams launched, jam organizers have created many different kinds of custom pages to hold content that they felt didn't belong crowded onto the homepage. The titles of some organizer created pages have been: Rules, FAQs, Resources, Tips, Examples, Media, Press, Contact, and Prizes. 
-
-  
+- **Header:** Click the Edit Content button to, well, edit the text in the jam header. You'll see that the header is pre-populated with the jam name as a heading and the countdown timer widget below it. Don't be verbose here. Remember that the header will appear atop every jam page and the image, jam name, and countdown are often enough to put there. You can use [Markdown](http://jams.gamejolt.com/help/markdown) to style your header text, just as you can on the homepage (see next bullet point).  
+- **Home:** Your jam's homepage should contain enough information to let any reader know what the jam is all about. Writing and editing content on jam pages is done in [Markdown](http://jams.gamejolt.com/help/markdown), which is easy to use and allows you to do things like styling text and adding links and images. You can add video or audio snippets to your page by [using widgets](http://jams.gamejolt.com/help/widgets). Any or all of the following information could go on the homepage: 
+    - **Dates:** When does the jam start and when does it end? Be specific. 
+    - **Rules:** Even the most laid back jam could use a few rules to guide participants. If the rules are numerous and/or complex, you might want to create a new page to put them on (see Organizer Created Pages, below). 
+    - **How to Submit:** It is essential to explain to participants how to enter games in the jam. In case you don't know, they do this by adding a game to Game Jolt and putting the jam hashtag anywhere in the game's description. 
+    - **Theme:** If your jam has a theme, the homepage is the place to announce it. If you're not revealing the theme until the jam starts, you can let participants know that. You can even tease the theme, or explain how it will be chosen. And if you're announcing your theme at the start of the jam, remember to update your homepage when the time comes! 
+    - **Judging:** If the jam is a competition, let everyone know how the games will be judged. Will voting be open to anyone or only to people who have entered a game in the jam? If a jury will be picking the winners, people would probably like to know who's on the jury. 
+    - **Contact:** This info is all too often left off of homepages. If people have questions about the jam, who do they contact and how? It's a good idea to provide an email address or at least a Twitter handle. If you don't want people sending questions to your personal email address, you could always create a new one just for the jam. 
+- **Games:** This page will display all the games that have been entered in the jam. You can hide games or accept late entries via the Game Entries tab (see below). Here, you can set the page's visibility on or off. The Games page is visible by default, but you can hide it if you wish. 
+- **Organizer Created Pages:** To create a new page for your jam site, click Add a Page (located under the list of pages). Next, you'll need to give your new page a title and a URL. The page title will appear as a link on your jam's navigation bar. Ideally, the URL should be similar to the title. Once created, the page will show up in the list of pages.  
+    - **Editing and Visibility:** After creating a new page, you can add and edit content (see "Home", above). All organizer created pages start out hidden, so click the Visibility switch from Off to On when you're ready for yours to be viewable. 
+    - **Examples:** Since Game Jolt Jams launched, jam organizers have created many different kinds of custom pages to hold content that they felt didn't belong crowded onto the homepage. The titles of some organizer created pages have been: Rules, FAQs, Resources, Tips, Examples, Media, Press, Contact, and Prizes. 
 
 ### Game Entries
 
 On this page, you'll find a list of every game that's been entered in the jam, along with the developer's name and the date on which the game was entered. New games will automatically appear here when they are added to Game Jolt and tagged with your jam hashtag.
 
-  
-
-- Removing Games: If your jam has any strict rules, there is a chance that some games will break them. For this reason, or for any other reason, you can easily hide a game from the jam. Just locate it in the Jam Games list and click the Hide Game button next to it. The game will disappear from the jam's Games page. It will still appear on your list here, in case you decide to accept it into the jam later. To do this, simply click the Unhide Game button next to it. 
-- Late Entries: If a game is submitted to the jam after the deadline, a new Late Entries tab will appear on this page. This tab will list all games entered after the jam has ended. It's up to you how to handle them. In our jams, we generally have a short grace period to allow for slow uploads and other network issues. To accept a late entry into the jam, click the Approve Game button next to it. If you need to reject a late game that has been previously approved, find it in the Jam Games list and click the Reject Game button next to it. 
+- **Removing Games:** If your jam has any strict rules, there is a chance that some games will break them. For this reason, or for any other reason, you can easily hide a game from the jam. Just locate it in the Jam Games list and click the Hide Game button next to it. The game will disappear from the jam's Games page. It will still appear on your list here, in case you decide to accept it into the jam later. To do this, simply click the Unhide Game button next to it. 
+- **Late Entries:** If a game is submitted to the jam after the deadline, a new Late Entries tab will appear on this page. This tab will list all games entered after the jam has ended. It's up to you how to handle them. In our jams, we generally have a short grace period to allow for slow uploads and other network issues. To accept a late entry into the jam, click the Approve Game button next to it. If you need to reject a late game that has been previously approved, find it in the Jam Games list and click the Reject Game button next to it. 
 
 ### Activity Feed
 
@@ -167,31 +155,22 @@ Your jam's activity feed is turned on by default and appears on the jam homepage
 
 This is where you activate and set up voting/judging (these terms are basically interchangeable in regards to Game Jolt Jams). Voting is turned off by default, so to enable it, click the switch to turn it ON. Then, you need to fill out some information. You can change anything on this page up until the voting period starts.
 
-- Voting End Date and Time: Figure out how much time you want to allow for the judging process and select a date and time on which to end it. The voting end date and time must be set for after the jam's end date and time. You don't have to set a start date for voting; the voting period will begin the instant the jam ends. 
-- Who can vote? You have a choice between allowing anyone with a Game Jolt account to vote (Users) or limiting voting to participants in the jam (Participants). Choose your radio button with care. 
-- Voting Type: Now you must decide how games will be scored. Game Jolt Jams lets voters judge games by assigning them numerical ratings from 1-5, with 5 being the best. You can choose if games are given overall ratings or if multiple scores are given in different categories for each game. 
-- Categories: After you set up voting and you save the page, if you have chosen Categories, you will be able to create them now. Click Add Category and then enter a category name (such as Graphics, Audio, Use of Theme, Fun, or whatever categories you devise). Optionally, you can give each category a description. Descriptions aren't necessary if the category name is clear enough, but they can be used to give voters clarification or guidance. 
+- **Voting End Date and Time:** Figure out how much time you want to allow for the judging process and select a date and time on which to end it. The voting end date and time must be set for after the jam's end date and time. You don't have to set a start date for voting; the voting period will begin the instant the jam ends. 
+- **Who can vote?** You have a choice between allowing anyone with a Game Jolt account to vote (Users) or limiting voting to participants in the jam (Participants). Choose your radio button with care. 
+- **Voting Type:** Now you must decide how games will be scored. Game Jolt Jams lets voters judge games by assigning them numerical ratings from 1-5, with 5 being the best. You can choose if games are given overall ratings or if multiple scores are given in different categories for each game. 
+- **Categories:** After you set up voting and you save the page, if you have chosen Categories, you will be able to create them now. Click Add Category and then enter a category name (such as Graphics, Audio, Use of Theme, Fun, or whatever categories you devise). Optionally, you can give each category a description. Descriptions aren't necessary if the category name is clear enough, but they can be used to give voters clarification or guidance. 
 
 ### Livestreams
 
 Here, you can enable Twitch.tv livestream integration by setting the big switch to ON. If livestreams are enabled, a Livestreams page will appear when the jam begins. Participants can have their livestreams appear there while they are live. All they have to do is enter their Twitch name and then start streaming. 
 
-- Why? Livestreaming development is a great way to participate in an online jam. Seeing the rapid development process unfold is instructional for other devs, interesting for gamers, and helps maintain a sense of everyone being in this thing together--especially if participants are not gathered in a single physical location. 
-  
+- **Why?** Livestreaming development is a great way to participate in an online jam. Seeing the rapid development process unfold is instructional for other devs, interesting for gamers, and helps maintain a sense of everyone being in this thing together--especially if participants are not gathered in a single physical location. 
 
 There's one more important ingredient in a successful jam that this guide has not covered, but it bears mentioning here, in bold: Don't forget to have fun!
 
-  
-
 Do you have any questions? Can you think of anything that should be added to this guide? Want to give us feedback about the Jams system or request new features? Send us an email at [contact@gamejolt.com](mailto:contact@gamejolt.com).
 
-  
-  
-  
-
 * * *
-
-  
 
 ### Further Reading
 
