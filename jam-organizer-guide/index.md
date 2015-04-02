@@ -170,7 +170,7 @@ There's one more important ingredient in a successful jam that this guide has no
 
 Do you have any questions? Can you think of anything that should be added to this guide? Want to give us feedback about the Jams system or request new features? Send us an email at [contact@gamejolt.com](mailto:contact@gamejolt.com).
 
-* * *
+---
 
 ### Further Reading
 
