@@ -109,7 +109,7 @@ Here are the requirements and recommendations for headers:
     - The maximum width is 5120. 
 
 - The height of your image should be from 15% to 35% of its width. 
-    - *Tip:* To find an acceptable width, take the height and multiply it by 150 to 350.
+    - **Tip:** To find an acceptable width, take the height and multiply it by 150 to 350.
 
 **Making a Quick and Dirty Header**
 
