@@ -137,7 +137,7 @@ Don't stress too much about getting your image to the correct size; there's a ha
 
 Only use images that you created. Don't use another game's image, an internet meme, something you found on Deviantart, or anything like that.
 
-A note on mature content: Please don't choose an image for your thumbnail that contains nudity, swear words, or adult-oriented imagery. This only applies to thumbnails, not to other images, because they show up on public lists and in search results; once someone visits a game page, there is a maturity rating on display and one can make their own decision about whether to stay on the page and play the game.
+_A note on mature content:_ Please don't choose an image for your thumbnail that contains nudity, swear words, or adult-oriented imagery. This only applies to thumbnails, not to other images, because they show up on public lists and in search results; once someone visits a game page, there is a maturity rating on display and one can make their own decision about whether to stay on the page and play the game.
 
 #### Thumbnail Specifications
 
