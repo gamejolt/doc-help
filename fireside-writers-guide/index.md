@@ -1,6 +1,6 @@
 # The Little Fireside Writer's Guide
 
-**"Success isn't a result of spontaneous combustion. You must set yourself on Fire." -Arnold H. Glasow**
+> "Success isn't a result of spontaneous combustion. You must set yourself on Fire." -Arnold H. Glasow
 
 Welcome! Grab a seat around the fire. Let's talk about how to make a great-looking Fireside post. 
 
