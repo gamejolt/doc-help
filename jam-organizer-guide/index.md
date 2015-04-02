@@ -88,7 +88,7 @@ The only things you need to get started with Game Jolt Jams is the will and a Ga
 - **Timezone:** This one's easy. Just select the timezone that you want the jam's clock to use. Your current timezone should be autodetected and selected by default. 
 - **Start Date and Time:** Remember to choose the dates of your jam carefully, as discussed in Part 1. But it's okay if the dates are tentative at this point; they can still be changed. The start date can be adjusted any time before the jam actually starts.  
 - **End Date and Time:** Your can schedule the end of the jam for any time after the jam starts. If you need to, you can extend the deadline. Even if the jam is already in progress, the end date can be changed up until the moment the jam ends. 
-    - *A Note on Midnights:* Be careful when you schedule a start or end date for 12:00 AM. A jam that ends at, for example, midnight on the 9th of the month, ends as soon as the clock ticks over from the 8th to the 9th--not at the end of the day on the 9th. 
+    - _A Note on Midnights:_ Be careful when you schedule a start or end date for 12:00 AM. A jam that ends at, for example, midnight on the 9th of the month, ends as soon as the clock ticks over from the 8th to the 9th--not at the end of the day on the 9th. 
 - **Create Jam:** Go ahead, click it. Remember, your jam will still remain hidden. 
   
 ### Jam Overview
