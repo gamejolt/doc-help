@@ -20,7 +20,7 @@ Take some time to fill out your profile. This is a chance to tell people a littl
 
 Speaking of links, linking your social media accounts with Game Jolt is more important than you might think. Don't put your Twitter and Facebook links in the body of your profile; [link them](http://gamejolt.com/dashboard/linked-accounts/) directly. They will appear big and bold on the side of your profile, which makes it easier for fans, press, staff, etc. to contact you.
 
-* * *
+---
 
 ## Add a Game
 
@@ -80,7 +80,7 @@ Here are some things you could put in your game description:
 
 Once you hit that button, your game page will be created. However, the page starts out hidden and only those with the link can view it. As long as it's hidden, it will not show up in search results nor appear in the Newly Added section. Your game is not considered "published" until you unhide it.  
 
-* * *
+---
 
 ## Manage Your Game
 
@@ -283,7 +283,7 @@ Members of the Game Jolt community have written various libraries and plugins th
 
 From your game's management page, you can create news updates to post about your game. News updates trigger follower notifications and are an essential part of publicizing your game.
 
-* * *
+---
 
 ### Publicizing Your Game
 
