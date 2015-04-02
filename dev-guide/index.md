@@ -46,7 +46,7 @@ You'll need to fill in some basic information about your game in order to procee
 
 **Title:** Surely your game has a name. Put it here.
 
-- _A note on mature language:_ If your game's title contains the "F-word" or a swear word of that magnitude, please replace one or more of its letters with *. This will keep browsing friendly for people who do not wish to view mature content. This only applies to titles and thumbnails because they show up in lists and search results; once someone visits a game page, there is a maturity rating on display and one can make their own decision about whether to read the description and play the game. 
+- _A note on mature language:_ If your game's title contains the "F-word" or a swear word of that magnitude, please replace one or more of its letters with asterisks or similar characters. This will keep browsing friendly for people who do not wish to view mature content. This only applies to titles and thumbnails because they show up in lists and search results; once someone visits a game page, there is a maturity rating on display and one can make their own decision about whether to read the description and play the game. 
 
 **Website:** If you wish to link to a personal website about the game or about your games in general, this is the place to do it.
 
