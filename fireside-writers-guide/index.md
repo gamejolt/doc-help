@@ -32,8 +32,6 @@ This is up to you, as it comes down to a matter of personal style these days. On
 
 ## Paragraphs
 
-You know what a paragraph is. In books they're indented, but on the internet they're generally just a group of sentences set apart from other ones by blank lines. 
-
 Reading on a screen can be tiring, so a general rule of thumb for writing online is to try use short paragraphs to divide your post into easily digestible chunks. Consider using more paragraphs than you might use if you were writing for print.
 
 ## Headings
