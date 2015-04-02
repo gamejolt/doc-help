@@ -1,6 +1,6 @@
 # Game Jolt Jams, the Manual
 
-## *A Guide for Jam Organizers of All Experience Levels*
+## A Guide for Jam Organizers of All Experience Levels
 
 Ready to run a game jam? Good, you've come to the right place. 
 
