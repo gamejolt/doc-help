@@ -6,6 +6,6 @@ Your token is different from your password and should stay that way. If someone 
 
 When you play a game that uses the Game API, your token is used to access score tables, trophies, cloud data storage, and other features made possible by the API. Some API-enabled games log you in automatically; others require you to manually enter your username and your token in-game.
 
-You can find your token any time at the bottom left corner of your screen, next to your avatar. Click or tap "Game Token" to reveal it. You can also change your token here. If you change it, be sure to choose something different than your password.
+You can find your token any time at the bottom left corner of your screen, next to your avatar. Click or tap "Game Token" and you'll be shown a screen where you can view and change your token. If you change it, be sure to choose something different than your password.
 
 Remember that your token and your password should never be the same thing. Don't share your password with anyone. Game Jolt staff will never ask you for it.
