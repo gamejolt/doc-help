@@ -1,8 +1,12 @@
+---
+title: What Is My Game Token?
+---
+
 # What Is My Game Token?
 
 When you make an account on Game Jolt, you get a Game Token. Named after the coins you drop into arcade cabinets and subway turnstiles, your token is a string of numbers and letters that lets you log into games that use Game Jolt's Game API.
 
-Your token is different from your password and should stay that way. If someone gets ahold of your token, they can access your game data, but they won't be able to sign into the site and mess with your account. 
+Your token is different from your password and should stay that way. If someone gets ahold of your token, they can access your game data, but they won't be able to sign into the site and mess with your account.
 
 When you play a game that uses the Game API, your token is used to access score tables, trophies, cloud data storage, and other features made possible by the API. Some API-enabled games log you in automatically; others require you to manually enter your username and your token in-game.
 
