@@ -1,3 +1,0 @@
-- [Paragraphs](#paragraphs)
-- [Paragraphs](#paragraphs)
-- [Paragraphs](#paragraphs)
