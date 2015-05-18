@@ -3,12 +3,12 @@
 You can add an image from the web to your comment using this format:
 
 ```
-![alt text](http://oi55.tinypic.com/111o2di.jpg)
+![alt text](//help.gamejolt.com/app/img/111o2di.gif)
 ```
 
 <h5 class="text-muted">RESULT</h5>
 
-![alt text](http://oi55.tinypic.com/111o2di.jpg)
+![alt text](//help.gamejolt.com/app/img/111o2di.gif)
 
 Start the line with an exclamation point `!` followed by some alt text in brackets `[ ]`. Next comes the image's URL in parentheses `( )`.
 

@@ -29,6 +29,6 @@ Create a pull quote to call out important text or to caption an image or video.
 ```
 {% pullquote Oh no, not this again. %}
 
-![alt text](http://oi55.tinypic.com/111o2di.jpg)
+![alt text](//help.gamejolt.com/app/img/111o2di.gif)
 ```
 {% endraw %}
