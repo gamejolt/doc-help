@@ -8,7 +8,11 @@ If your game is a work-in-progress, it's essential to post screenshots in order 
 
 Screenshots can even keep people who have already played your game coming back for more, having perhaps seen things in the images that they haven't yet seen in the game.
 
-One more thing about screenshots: You can actually upload images that aren't screenshots, too. But only post images that are relevant and your original work. Say you built your game's graphics out of clay; a photo of the models might make a cool "screenshot". Or maybe you built a custom arcade cabinet for your game; a picture of that would be perfect. Made some mockup box art? That
+One more thing about screenshots: You can actually upload images that aren't screenshots, too. But only post images that are relevant and your original work. Say you built your game's graphics out of clay; a photo of the models might make a cool "screenshot". Or maybe you built a custom arcade cabinet for your game, or some mockup box art; a picture of that would be perfect.
+
+### How to add screenshots
+
+To add screenshots, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select a game from under "Your Games". You will be taken to the game's management page. Visit the "Media" tab and start adding images.
 
 Screenshots can be any size and a few different formats, but a here are a couple general rules of thumb:
 
