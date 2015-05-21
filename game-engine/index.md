@@ -122,3 +122,9 @@ If the tool you used is not on the list, you can select "Other", then type in th
 ### Adding to the list
 
 Our list of game creation tools is open source. If you want to contribute to it, you can do so [here](https://github.com/gamejolt/creation-tools)
+
+[How do I add my game to Game Jolt?](Link)
+
+[What types of builds/files can I upload?](Link)
+
+[How do I make a game?](Link)
