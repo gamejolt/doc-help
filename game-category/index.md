@@ -14,3 +14,5 @@ The game categories are:
 - Sports 
 - Strategy/Sim 
 - Other
+
+[How do I add my game to Game Jolt?](Link)
