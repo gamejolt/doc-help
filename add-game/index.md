@@ -74,8 +74,6 @@ Before you can publish your game, it needs two things:
 
 [How do I make a game?](Link)  
 
-[How do I make a game?](Link)
-
 [How do I create a developer account?](Link)
 
 [What kind of games can I put on Game Jolt?](Link)
