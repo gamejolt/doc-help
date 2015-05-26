@@ -6,10 +6,10 @@ If you upload a new build of your game, you should take the time to make a news 
 
 If you have something to post that is not news about a particular game, you can use your developer blog.
 
-[Link to How do I make a news post?](Link)
+[How do I make a news post?](Link)
 
-[Link to How do I access my blog?](Link)
+[How do I access my blog?](Link)
 
-[Link to How do I publicize my game?](Link)
+[How do I publicize my game?](Link)
 
-[Link to How do I get followers?](Link)
+[How do I get followers?](Link)
