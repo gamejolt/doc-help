@@ -2,6 +2,8 @@
 
 The moving image is an incredibly effective medium. Humans just love it. So spruce up your game page with some video! Adding a video is as simple as entering a link to Youtube or Vimeo and giving it a title and, optionally, a description.
 
+To add video, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select a game from under "Your Games". You will be taken to the game's management page. Visit the "Media" tab and start adding video.
+
 You can add videos that you recorded or ones that other people made about your game. Here are some ideas for what kinds of videos you can add:
 
 - Game trailers 
