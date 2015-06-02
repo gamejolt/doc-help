@@ -10,6 +10,6 @@ We don't police maturity ratings, but if an inappropriate rating is reported to 
 
 The possible maturity ratings are:
 
-- Family 
-- Teen 
-- Adult
+- All Ages 
+- Teen Content
+- Mature Content
