@@ -21,7 +21,7 @@ You can make a game page before your game is finished. This will allow people to
 
 To enter your game in the jam, **put the jam hashtag in the game's description**. You can edit the description from the game's management page on your [dashboard](http://gamejolt.com/dashboard/). Make sure to add the hashtag after the jam begins, but before the jam ends.
 
-Note that adding a jam hashtag creates a jam page for your game that is different from the original game page.
+Note that adding a jam hashtag creates an entry page on the jam site that is different from the original game page.
 
 ![Enter Hashtag](/enter-jam/enter-hashtag.png)
 
