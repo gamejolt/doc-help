@@ -9,7 +9,7 @@ Already have one? Then skip to the next section. If not, read on.
 
 ## Create a Game Page
 
-Making a game page before your game is finished allows people to follow its development on the jam's activity feed (if the jam has one).
+You can make a game page before your game is finished. This will allow people to follow your game's development on the jam's activity feed (if the jam has one).
 
 1. **Go to your [developer dashboard](http://gamejolt.com/dashboard/),** where you can add and edit games.
 2. **Add your game.** Hit the big "Add a Game" button. Read and agree to the rules to continue.
