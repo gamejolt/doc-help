@@ -1,6 +1,10 @@
-# What images can I use for thumbnails?
+# What is a thumbnail?
 
-Here are the technical requirements and recommendations for thumbnail images:
+Your game's thumbnail is probably the most important image of your game on the site. This is the image that will appear in game listings, in search results, and so on.
+
+These little images can be the difference between someone checking out your game and barely noticing it. In many cases, a thumbnail will be the first impression someone has of your game.
+
+## What are the thumbnail requirements and guidelines?
 
 - The minimum dimensions are 640x360 (recommended minimum of 1280x720 to look decent on 4K displays). 
 - The maximum width and height is 4096x4096. 
@@ -10,6 +14,18 @@ Here are the technical requirements and recommendations for thumbnail images:
 - The maximum file size is 3MB. If your file is larger, try compressing and/or optimizing the image. 
 - Your file must be a PNG, JPG, or GIF. PNGs generally look the best. 
 
-[What is a thumbnail image?](/thumbnail/index.md)
+## Choosing a thumbnail image
+
+Think of your game's thumbnail as its box cover if it was sold off a shelf in a store (they used to do that, you know). It should attract attention and give an impression of what the game is like.
+
+A good thumbnail should be more than just a title floating on a blank background. Many good thumbnails are simply well-framed screenshots with the game's title added. Other good ones are images created specifically for the thumbnail using art from the game.
+
+Don't stress out too much about getting your image to the correct size; there's a handy cropper tool to make it easy for you. But you should still start out with a high-quality original image.
+
+Only use images that you created. Don't use another game's image, an internet meme, something you found on Deviantart, or anything like that.
+
+### Mature content in thumbnails
+
+Please don't choose an image for your thumbnail that contains nudity, swear words, or adult-oriented imagery. This only applies to thumbnails, not to other images, because thumbnails show up on public lists and in search results. Once someone visits a game page, there is a maturity rating on display and a gamer can make their own decision about whether to stay on the page and play the game.
 
 [How do I edit/manage my game?](/edit-game/index.md)
