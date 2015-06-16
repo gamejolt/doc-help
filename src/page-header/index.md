@@ -11,7 +11,7 @@ Here are the requirements and recommendations for header images:
 - The image format can be PNG, JPG, or GIF. PNGs will result in the highest quality. 
 - In general, your image should be as large as possible. 
 - The minimum recommended width is 1920. Images less wide than this will be automatically enlarged. The maximum width is 5120.
-- The minimum aspect ratio (width/height) is 2.7 and the maximum ratio is 6.3. The recommended ratio is 4. 
+- The minimum ratio (width/height) is 2.7 and the maximum ratio is 6.3. The recommended ratio is 4. 
 	- We recommend making the width 400% of the height (it has to be between 271.5% and 630%). 
     - To find a good height, divide the width by 4 (it can actually be any number between 2.7 and 6.3).
     - If you have the height and need a good width, just multiply the height by 4 (or anything between 2.7 and 6.3).
