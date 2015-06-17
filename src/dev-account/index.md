@@ -1,6 +1,6 @@
-## How do I create a developer account?
+# How do I create a developer account?
 
-###  If you don't have a Game Jolt account at all:
+##  If you don't have a Game Jolt account at all:
 
 Go ahead and [sign up](http://gamejolt.com/auth/sign_up/) for one.
 
@@ -11,10 +11,10 @@ Go ahead and [sign up](http://gamejolt.com/auth/sign_up/) for one.
 
 You can also sign up for a Game Jolt account using [Facebook](http://gamejolt.com/auth/social-login/facebook/) or [Twitter](http://gamejolt.com/auth/social-login/twitter/).
 
-### If you already have a gamer account:
+## If you already have a gamer account:
 
 If you're already a gamer on Game Jolt, it's a cinch to become a developer. Just [go here](http://gamejolt.com/dashboard/become-developer/) and hit the "Become a Developer" button.
 
-[How do I edit my profile?](Link)
+[How do I edit my profile?](/edit-profile/index.md)
 
-[How do I change my avatar?](Link)
+[How do I change my avatar?](/avatar/index.md)
