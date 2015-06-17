@@ -1,8 +1,8 @@
-## What are the rules for putting a game on Game Jolt?
+# What are the rules for putting a game on Game Jolt?
 
 When you click or tap "Add a Game" on your developer dashboard, the first thing you'll see are the rules for uploading a game to Game Jolt. The rules are there for a reason. You have to agree to them before you add a game, and if your game breaks the rules, it will be removed. Read the rules and abide by them. That way everyone stays happy and nobody gets hurt. That last bit was a joke. Someone always gets hurt. Just kidding. The rules are serious, though.
 
-### The rules:
+## The rules:
 
 - Game Jolt is currently only accepting free games. There must be no requirement to pay in order to play your game. 
 - Don't upload games you didn't make. If you are not the developer of the game, you cannot add the game to the site. If you're a fan, encourage the developer to add the game themselves! 
@@ -17,8 +17,8 @@ When you click or tap "Add a Game" on your developer dashboard, the first thing 
     - gamejolt.net 
     - *.gamejolt.net 
 
-If you have questions or concerns about the upload rules, [email us](mailto:contact@gamejolt.com). 
+If you have questions or concerns about the rules, [email us](mailto:contact@gamejolt.com). 
 
-[How do I add my game to Game Jolt?](Link)
+[How do I add my game to Game Jolt?](/add-game/index.md)
 
-[What types of builds/files can I upload?](Link)
+[What types of builds/files can I upload?](/build-types/index.md)
