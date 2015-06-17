@@ -1,4 +1,4 @@
-## How do I edit my game title or description?
+# How do I edit my game title or description?
 
 If you want to make any changes to anything you've already entered, such as the game's title or description, do the following.
 
@@ -7,8 +7,6 @@ If you want to make any changes to anything you've already entered, such as the 
 3. Select "Edit Game". 
 4. Make your changes and then hit the "Save Game" button.  
 
-[How do I edit/manage my game?](Link)
+[How do I edit/manage my game?](/edit-game/index.md)
 
-[What type of media files can I add to my game page?](Link)
-
-[How do I publish my game?](Link)
+[How do I publish my game?](/publish-game/index.md)
