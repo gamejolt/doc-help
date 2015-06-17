@@ -1,4 +1,4 @@
-## Writing a game description
+# Writing a game description
 
 Your game's description is your chance to tell people why they should play your game.
 
@@ -14,4 +14,4 @@ Here are some ideas for what to put in your game description:
 - **Plans:** If the game is a work-in-progress, explain your vision for the final version. Do you have a development roadmap or a target date for completion? How often do you think you will work on the project? Be sure to encourage visitors to follow your game so they can be notified of news updates. 
 - **History:** If you've made updates to your game, you can put a quick summary of them here. If you have multiple builds, you can let people know what to expect in each one, and which one is the latest.
 
-[How do I add my game to Game Jolt?](Link)
+[How do I add my game to Game Jolt?](/add-game/index.md)
