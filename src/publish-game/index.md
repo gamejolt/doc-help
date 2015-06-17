@@ -1,0 +1,27 @@
+# How do I publish my game?
+
+When you are ready to publish your game, head over to your [dashboard](http://gamejolt.com/dashboard/) and select the game from the list under "Your Games". You will be taken to the game's overview page. Here, you can publish the game page by clicking/tapping "Publish Game".
+
+Before you can publish your game, it needs two things:
+
+1. [A thumbnail image](/thumbnail-image/index.md) 
+
+2. [A maturity rating](/maturity/index.md)
+
+Adding other things to your game page, like media, music, and a page header, are not required for publication, but are highly recommended. 
+
+- [Adding images to my game page](/add-image/index.md)
+
+- [Adding video to my game page](/add-video/index.md)
+
+- [Adding music to my game page](/add-music/index.md)
+
+- [What is a page header?](/page-header/index.md)
+
+If you want people to actually play your game, you will need to upload a build or builds of your game, and then unhide the builds.
+
+- [Adding builds/files to my game page](add-build/index.md)
+
+- [How do I unhide/hide game builds?](/unhide-build/index.md)
+
+[How do I add my game to Game Jolt?](/add-game/index.md)
