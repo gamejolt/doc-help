@@ -1,4 +1,4 @@
-## What is the development status of my game?
+# What is the development status of my game?
 
 When you add a game to the site, you must indicate your game's development status. You can change it at any time. You must choose one of three options:
 
@@ -6,4 +6,4 @@ When you add a game to the site, you must indicate your game's development statu
 - **Work-in-Progress:** Your game is still in development. You might have an alpha/beta/test build for people to play, but it may be unstable. Major updates are planned. 
 - **Canceled:** Your game is not what you'd consider complete, but you've ceased development on it. There is a playable build (stable or not), but you don't plan to ever update the game.
 
-[How do I add my game to Game Jolt?](Link)
+[How do I add my game to Game Jolt?](/add-game/index.md)
