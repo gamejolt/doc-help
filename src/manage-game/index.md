@@ -13,3 +13,5 @@ You begin on the Overview tab. To the left, you'll see the other available tabs,
 [What is a maturity rating?](/maturity/index.md)
 
 [What type of media files can I add to my game page?](/game-media/index.md)
+
+[Adding builds/files to my game page](/add-build/index.md)
