@@ -6,6 +6,8 @@ But **wait**! Before you publish your game page, you can [add media](/game-media
 
 When you're ready, visit your [dashboard](http://gamejolt.com/dashboard/) and choose the game from under "Your Games". You will be taken to the game's overview page. Click "Edit Details" on the left. Scroll down to "Visibility" and select "Published." Your game is no longer hidden!
 
+**Important:** Your game's releases start out hidden by default, so even if your game page has been published, you must publish the releases separately if you want them to show up on your game page!
+
 ## Hiding a published game
 
 It's just as easy to hide a game that you've already published. Head to your [dashboard](http://gamejolt.com/dashboard/) and choose the game from under "Your Games". Go to "Edit Details", scroll down to "Visibility", and select "Hidden".
@@ -14,6 +16,8 @@ It's just as easy to hide a game that you've already published. Head to your [da
 
 [How do I publish my game?](/publish-game/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
+
+[Adding builds to my game page](/add-build/index.md)
 
 [What type of media files can I add to my game page?](/game-media/index.md)
