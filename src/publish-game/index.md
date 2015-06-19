@@ -28,4 +28,6 @@ Finally, on the game's overview page, select the "Edit Details" tab on the left.
 
 [How do I add my game to Game Jolt?](/add-game/index.md)
 
+[How do I edit/manage my game?](/manage-game/index.md)
+
 [How do I publicize my game?](/publicize-game/index.md)
