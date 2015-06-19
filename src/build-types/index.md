@@ -46,6 +46,4 @@ These are completely unnecessary, but frequently awesome, and they really show t
 
 [Adding builds/files to my game page](add-build/index.md)
 
-[How do I unhide/hide game builds?](unhide-build/index.md)
-
 [How do I edit/manage my game?](/edit-game/index.md)
