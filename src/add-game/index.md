@@ -33,6 +33,8 @@ You must indicate the status of your game's development. You can choose one of t
 - Work-in-Progress: Your game is still in development. You might have an alpha/beta/test build for people to play, but it may be unstable. Major updates are planned. 
 - Canceled: Your game is not what you'd consider complete, but you've ceased development on it. There is a playable build (stable or not), but you don't plan to ever update the game. 
 
+[What is the development status of my game?](/game-status/index.md)
+
 ### Engine/Language
 
 Let us, and other developers, know what engine, language, or game creation tool you used. Select yours from the list. If you select "Other", please type in what you used.
@@ -55,26 +57,46 @@ Here are some ideas of what you could put in your game description:
 - Plans: If the game is a work-in-progress, explain your vision for the final version. Do you have a development roadmap or a target date for completion? How often do you think you will work on the project? Be sure to encourage visitors to follow your game so they can be notified of news updates. 
 - History: If you've made updates to your game, you can put a quick summary of them here. If you have multiple builds, you can let people know what to expect in each one, and which one is the latest. 
 
+[Writing a game description](/game-description/index.md)
+
 ## Step 2: Add your game
 
 Once you hit the "Add Game" button, your game page will be created. However, the page starts out hidden and only those with the link can view it. As long as it's hidden, it will not show up in search results nor appear in the Newly Added section. Your game page is hidden until you publish it.
 
 ## Step 3: Publish your game page
 
-When you are ready to publish your game page, head over to your [dashboard](http://gamejolt.com/dashboard/) and select the game from the list under "Your Games". You will be taken to the game's overview page. Here, you can publish the game by clicking or tapping "Publish Game".
+When you are ready to publish your game page, head over to your [dashboard](http://gamejolt.com/dashboard/) and select the game from the list under "Your Games". You will be taken to the game's overview page. Here, you can publish the game after you have completed the required set-up steps.
 
-### Prerequisites
+### Required set-up steps
 
-Before you can publish your game page, your game needs two things:
+Before you can publish your game page, it needs two or three things:
 
 1. A thumbnail image 
 2. A maturity rating
+3. A build (if your game is Complete or Canceled)
 
 [What is a thumbnail image?](/thumbnail-image/index.md) 
   
 [What is a maturity rating?](/maturity/index.md)  
 
-[How do I create a developer account?](/dev-account/index.md)
+[Adding builds/files to my game page](/add-build/index.md)
+
+### Recommended set-up steps
+
+You may also want to add some media, music, and a page header to your game page before you publish.
+
+[Adding images to my game page](/add-image/index.md)
+
+[Adding video to my game page](/add-video/index.md)
+
+[Adding music to my game page](/add-music/index.md)
+
+
+## Related Topics
+
+[How do I publish my game?](/publish-game/index.md)
+
+[How do I edit/manage my game?](/manage-game/index.md)
 
 [What kind of games can I put on Game Jolt?](/free-games/index.md)
 
