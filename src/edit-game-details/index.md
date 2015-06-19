@@ -11,6 +11,6 @@ If you want to make any changes to anything you've already entered, such as the 
 
 [Writing a game description](/game-description/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
 
 [How do I publish my game?](/publish-game/index.md)
