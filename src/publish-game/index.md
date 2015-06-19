@@ -24,6 +24,8 @@ If you want people to actually play your game, you will need to upload a build o
 
 - [Adding builds/files to my game page](add-build/index.md)
 
+Finally, on the game's overview page, select the "Edit Details" tab on the left. Scroll down to "Visibility" and set it to "Published." Your game is no longer hidden! If you want to unpublish it, just set "Visibility" back to "Hidden".
+
 [How do I add my game to Game Jolt?](/add-game/index.md)
 
 [How do I publicize my game?](/publicize-game/index.md)
