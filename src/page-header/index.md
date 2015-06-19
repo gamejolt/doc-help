@@ -24,4 +24,4 @@ If you don't want to make a custom image for your header, use a screenshot. A lo
 
 If you have an image that is already 2000 pixels wide (or wider), it is ready to upload. If it is less than that, use some imaging software to scale it up to 2000 pixels wide. Don't resize it by percentage and make sure to preserve the aspect ratio. Don't resample the image and don't sharpen it.
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
