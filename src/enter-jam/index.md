@@ -25,9 +25,9 @@ Adding a jam hashtag creates an entry page on the jam site. The game's rank in t
 
 ![Enter Hashtag](/enter-jam/enter-hashtag.png)
 
-## Add Game Distributions
+## Add Game Files
 
-Before the jam's deadline, upload one or more game distributions (builds). Distributions, like game pages, are hidden by default, so be sure to unhide them.
+Before the jam's deadline, upload one or more game releases. Releases, like game pages, are hidden by default, so be sure to unhide them.
 
 ![Publish Distribution](/enter-jam/unhide-distribution.png)
 
@@ -36,7 +36,7 @@ Before the jam's deadline, upload one or more game distributions (builds). Distr
 _Optional but recommended._
 
 - When you create a game page, it is hidden by default. A game will show up in the jam as long as the hashtag is in its description, even if the game page is hidden; however, it won't show up in the regular Game Jolt game listings.
-- Before you can unhide your page, it needs two more things: a thumbnail and a maturity rating. You can add these from the game's management page on your [dashboard](http://gamejolt.com/dashboard/).
+- Before you can publish your game page, your game needs two more things: a thumbnail and a maturity rating. You can add these from the game's overview page on your [dashboard](http://gamejolt.com/dashboard/).
 - When you're ready, click "Unhide your game."
 
 ![Publish Game](/enter-jam/unhide-link.png)
