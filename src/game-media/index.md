@@ -10,4 +10,4 @@ Images and videos are the two types of media that you can add to your game page 
 
 [Adding builds/files to my game page](/add-build/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
