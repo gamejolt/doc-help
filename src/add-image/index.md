@@ -23,4 +23,4 @@ Images can be any size and a few different formats, but a here are a couple gene
 
 [Adding music to my game page](/add-music/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
