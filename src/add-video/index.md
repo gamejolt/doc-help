@@ -19,4 +19,4 @@ Note that if your game is a work-in-progress and you haven't published a build, 
 
 [Adding music to my game page](/add-music/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
