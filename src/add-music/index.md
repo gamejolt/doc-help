@@ -8,4 +8,4 @@ Also, there is a little experiment called [Game Jolt Radio](http://gamejolt.fm/)
 
 [Adding video to my game page](/add-video/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
