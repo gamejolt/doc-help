@@ -4,8 +4,6 @@ You are welcome to upload Android games. We haven't officially added Android as 
 
 iOS and Windows Phone are closed platforms, so we cannot host iPhone/iPad or Windows Phone games.
 
-[What types of builds/files can I upload?](Link)
+[What types of builds/files can I upload?](/build-types/index.md)
 
 [Adding builds/files to my game page](/add-build/index.md)
-
-[How do I unhide/hide game builds?](/unhide-build/index.md)
