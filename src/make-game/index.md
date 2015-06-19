@@ -16,4 +16,4 @@ What we can do is point you in the direction of a couple of excellent resources 
 
 [How do I add my game to Game Jolt?](/add-game/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
