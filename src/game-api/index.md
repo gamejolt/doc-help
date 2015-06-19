@@ -44,4 +44,4 @@ Need Game API help? The [API forums](http://gamejolt.com/community/forums/game-a
 
 [How do I use data storage in my game?](/add-storage/index.md)
 
-[How do I edit/manage my game?](/edit-game/index.md)
+[How do I edit/manage my game?](/manage-game/index.md)
