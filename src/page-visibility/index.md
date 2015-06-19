@@ -10,12 +10,10 @@ When you're ready, visit your [dashboard](http://gamejolt.com/dashboard/) and ch
 
 It's just as easy to hide a game that you've already published. Head to your [dashboard](http://gamejolt.com/dashboard/) and choose the game from under "Your Games". Go to "Edit Details", scroll down to "Visibility", and select "Hidden".
 
-[How do I unhide/hide game builds?](/unhide-build/index.md)
+[How do I add my game to Game Jolt?](/add-game/index.md)
 
 [How do I publish my game?](/publish-game/index.md)
 
 [How do I edit/manage my game?](/edit-game/index.md)
-
-[How do I add my game to Game Jolt?](/add-game/index.md)
 
 [What type of media files can I add to my game page?](/game-media/index.md)
