@@ -4,7 +4,7 @@ Game Jolt supports both downloadable games and browser-based games. What files y
 
 ## Downloadable/Desktop
 
-If your game is downloadable, you should generally compress your game files into a single .zip file and upload that. Whether you've got an installer, a stand-alone application, a complex system of folders, or anything in between, zip it all up. If your build is a single file, zipping it is unnecessary. When you upload the build, choose the platform/operating system on which it runs (Windows, Linux, Mac, or Other).
+If your game is downloadable, you should generally compress your game files into a single archive file (.zip, .rar, etc.) and upload that. Whether you've got an installer, a stand-alone application, a complex system of folders, or anything in between, zip it all up. If your build is a single file, zipping it is unnecessary. When you upload the build, choose the platform/operating system on which it runs (Windows, Linux, Mac, or Other).
 
 When adding a downloadable build, here's something to keep in mind: The more steps a gamer has to go through in order to play your game, the less likely they are to actually play it.
 
@@ -16,13 +16,17 @@ If your game runs in a browser, with or without a plugin, the type of file you u
 
 ### HTML
 
-HTML games can be played in any modern browser without any plugins, and they can be enjoyed on many mobile devices. If you're adding an HTML build, upload a .zip file containing the index.html file and all the files and assets necessary to run the game.
+HTML games can be played in any modern browser without any plugins, and they can be enjoyed on many mobile devices. If you're adding an HTML build, upload an archive (.zip, .rar, etc.) containing all the files and assets necessary to run the game. There should be an index.html file in the root folder.
+
+Note that WebGL games exported from Unity 5+ should be uploaded as HTML games.
 
 ### Unity
 
-If your Unity build is meant to be downloaded, you should upload a .zip file containing an application file and a data folder.
+If your Unity build is meant to be downloaded, you should upload an archive file containing an application file and a data folder.
 
-If you're adding a browser build meant to be played using the Unity Webplayer plugin, you should upload a single .unity3d file. You may also want to disable right click behaviour by ticking the checkbox.
+If you're adding a browser build meant to be played using the Unity Web Player plugin, you should upload a single .unity3d file. You may also want to disable right click behaviour by ticking the checkbox (unless your game needs to detect right clicks).
+
+If you exported your Unity game to WebGL, then you should upload it as an HTML game.
 
 ### Flash
 
