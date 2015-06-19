@@ -91,6 +91,8 @@ You may also want to add some media, music, and a page header to your game page 
 
 [Adding music to my game page](/add-music/index.md)
 
+[What is a page header?](/page-header/index.md)
+
 
 ## Related Topics
 
