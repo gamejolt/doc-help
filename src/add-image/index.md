@@ -12,15 +12,3 @@ Most images on game pages are screenshots of the game. You can upload images tha
 
 To add images, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select a game from under "Your Games". You will be taken to the game's overview page. Visit the "Media" tab and start adding images!
 
-Images can be any size and a few different formats, but a here are a couple general rules of thumb:
-
-1. The bigger the image, the better the quality. 
-2. A PNG will almost always yield the best quality. 
-
-[What type of media files can I add to my game page?](/media-files/index.md)
-
-[Adding video to my game page](/add-video/index.md)
-
-[Adding music to my game page](/add-music/index.md)
-
-[How do I edit/manage my game?](/manage-game/index.md)
