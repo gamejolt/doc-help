@@ -1,6 +1,6 @@
 # What is the Game API?
 
-Our Game API (application control interface) lets your games exchange information with the Game Jolt servers. Implementing the Game API will allow you to add a number of features to your game, including:
+Our Game API lets your games communicate with the Game Jolt servers. Implementing the Game API will allow you to add a number of features to your game, including:
 
 - Online score tables 
 - Trophies (achievements) 
@@ -10,7 +10,7 @@ Our Game API (application control interface) lets your games exchange informatio
 
 ## API libraries and plugins
 
-The Game API works with any game creation tool, engine, or programming language that supports HTTP and MD5 (or SHA-1). Members of the Game Jolt community have already written libraries, wrappers, and/or plugins for:
+Members of the Game Jolt community have already written libraries, wrappers, and/or plugins for:
 
 - [ActionScript 3](http://gamejolt.com/community/forums/topics/as3-trophy-api/305/) 
 - [Blitz](http://gamejolt.com/community/forums/topics/blitzmax-api/1257/) 
@@ -36,12 +36,7 @@ The Game API works with any game creation tool, engine, or programming language 
   
 Don't see your platform? Check the [API forums](http://gamejolt.com/community/forums/game-achievements/9/). There might be something new there that hasn't made it's way here yet.
 
-If you want to use the Game API without using a library/wrapper/plugin, or if you want to write something for it yourself, you will need the [Game API documentation](https://github.com/gamejolt/doc-game-api). 
+If you want to use the Game API without using a library/wrapper/plugin, or if you want to write something custom, you can check out the [Game API documentation](http://gamejolt.com/api/doc/game). 
 
 Need Game API help? The [API forums](http://gamejolt.com/community/forums/game-achievements/9/) should be your first stop.
 
-[How do I add scoreboards and trophies to my game?](/add-api/index.md)
-
-[How do I use data storage in my game?](/add-storage/index.md)
-
-[How do I edit/manage my game?](/manage-game/index.md)
