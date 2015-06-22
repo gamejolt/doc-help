@@ -28,5 +28,3 @@ Only use images that you created. Don't use another game's image, an internet me
 ### Mature content in thumbnails
 
 Please don't choose an image for your thumbnail that contains nudity, swear words, or adult-oriented imagery. This only applies to thumbnails, not to other images, because thumbnails show up on public lists and in search results. Once someone visits a game page, there is a maturity rating on display and a gamer can make their own decision about whether to stay on the page and play the game.
-
-[How do I edit/manage my game?](/manage-game/index.md)
