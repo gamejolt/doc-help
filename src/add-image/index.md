@@ -1,4 +1,4 @@
-# Adding images to my game page
+# Media - images
 
 The images on your game page will be an influencing factor in terms of getting people to commit to play and/or download your game. Many people will simply skip over a game page with no screenshots so it is vital that you post images of your game that are relevant and flattering.
 
