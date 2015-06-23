@@ -1,4 +1,4 @@
-# Adding video to my game page
+# Media - video
 
 The moving image is an incredibly effective medium. Humans just love it. So spruce up your game page with some videos! Adding a video is as simple as entering a link to it on YouTube or Vimeo and giving it a title (and, optionally, a description).
 
