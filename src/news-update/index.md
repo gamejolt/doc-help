@@ -2,7 +2,7 @@
 
 News updates are a great way to garner your game some new or renewed publicity. They are the primary means of staying in contact with your game's followers. Post news updates whenever something interesting happens with your game. Followers will be sent notifications and the news will be archived on your game page.
 
-The best news updates deliver information that a game's followers would want to know. If you do something like upload a new version of your game, hit a major milestone in development, update a changelog, or release a trailer, you should take the time to make a news update.
+If you upload a new version of your game, hit a major milestone in development, update a changelog, or release a trailer, you should take the time to make a news update.
 
 ## How do I post a news update?
 
