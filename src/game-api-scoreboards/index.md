@@ -19,6 +19,7 @@ You have control over sorting options, so you could make a traditional scoreboar
 When logging the user's score in your game, you can pass in a different value for the score's string/text value, and a different value for the sort. The reason for this is for when you want to format your score differently than just a numeric value.
 
 Example Formatted String: `5 bubbles popped`
+
 Example Sort Value: `5`
 
 The formatted string is what will show up on your game's page. The sort value is the numeric value that Game Jolt uses to rank the score among the other scores on the scoreboard.
