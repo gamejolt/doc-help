@@ -1,12 +1,12 @@
 # What is a maturity rating?
 
-Before you can unhide your game and show it to the world, you are required to give it a maturity rating. Maturity ratings are important because they allow people to make informed decisions about what they choose to play--or allow their children to play. We don't mind having games with mature content on the site as long as they are rated appropriately.
+Setting a maturity rating for your game is required. Maturity ratings are important because they allow people to make informed decisions about what they choose to play--or allow their children to play. We don't mind having games with mature content on the site as long as they are rated appropriately.
 
 There are 3 possible maturity ratings:
 
 - **All Ages** - Content is generally suitable for all ages, including young children. May contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.
-- **Teen** - May contain violence, suggestive themes, crude humor, minimal blood and/or infrequent use of strong language. Content is generally suitable for ages 14 and up.
-- **Mature** - May include scenes of intense violence and/or graphic sexual content. Content suitable only for adults ages 18 and up.
+- **Teen** - May contain violence, suggestive themes, crude humor, minimal blood and/or infrequent use of strong language. 
+- **Mature** - May include scenes of intense violence and/or graphic sexual content. Content suitable only for adults.
 
 Assign your game a rating, then go through the list and select any content tags that apply to your game.
 
