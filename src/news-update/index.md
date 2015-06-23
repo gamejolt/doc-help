@@ -1,21 +1,17 @@
 # What is a news update?
 
-News updates are a great way to garner your game some new or renewed attention and they are the primary means of staying in contact with your game's followers. Post news updates whenever something interesting happens with your game. Followers will be sent notifications and the news will be archived on your game page. Your news updates might even show up on the Game Jolt homepage.
+News updates are a great way to garner your game some new or renewed publicity. They are the primary means of staying in contact with your game's followers. Post news updates whenever something interesting happens with your game. Followers will be sent notifications and the news will be archived on your game page.
 
-The best news updates deliver information that a game's followers would want to know. If you upload a new build of your game, you should take the time to make a news update. If your game just won a jam or an award, post a news update about it. If someone published a glowing review of your game, go ahead and make a news update.
-
-If you have something to post that is not a news update about a particular game, you can use your developer blog.
+The best news updates deliver information that a game's followers would want to know. If you upload a new version of your game, hit a major milestone on development, have updated changelogs or teasers, you should take the time to make a news update.
 
 ## How do I post a news update?
 
-News updates trigger follower notifications and are an essential part of publicizing your game. To create a news update for a particular game, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select the game from under "Your Games". On the game's overview page, visit the "News" tab and click "Add Game News".
+The best news updates are occasional and contain interesting and important information. Embedded images go a long way in keeping readers interested.
 
-Now you can give your news update a title and write the content. The content is written in Markdown, which is easy to use and allows you to do a number of cool things without having to use HTML. For help with Markdown, consult our [Markdown guide](https://help.gamejolt.com/markdown).
+The content is written in Markdown, which is easy to use and allows you to do a number of cool things without having to use HTML. For help with Markdown, consult our [Markdown guide](https://help.gamejolt.com/markdown).
 
-Be sure to space out your news updates. We want to offer a range of game news, so multiple posts made in a brief period of time for the same game will not appear on the homepage.
+We recommend using [Imgur](http://imgur.com/) to host the images for your news update. You can embed screenshots and game art using Markdown. Although video is currently not an option via Markdown, you can always add animated gifs!
 
-[How do I use my developer blog?](/dev-blog/index.md)
+Be sure to space out your news updates and limit yourself to at most 1 update per week. If you post too often, your followers may ignore your update and even unfollow your game. If your news is too short for a news update, consider utilizing [Twitter](www.twitter.com)!
 
-[How do I publicize my game?](/publicize-game/index.md)
-
-[How do I get followers?](/get-followers/index.md)
+To create a news update for a particular game, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select the game from under "Your Games". On the game's overview page, visit the "News" tab and click "Add Game News".
