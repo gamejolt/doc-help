@@ -14,13 +14,14 @@ Enable guest scoring for players without Game Jolt accounts can submit their sco
 
 You have control over sorting options, so you could make a traditional scoreboard, where the same person can occupy multiple slots, or you could make it so that only someone's best score is displayed.
 
-## Score Strings
+## Score Strings vs Sort Values
 
-This is the text that show for a user’s score. 
+When logging the user's score in your game, you can pass in a different value for the score's string/text value, and a different value for the sort. The reason for this is for when you want to format your score differently than just a numeric value.
 
-## Sort Value
+Example Formatted String: `5 bubbles popped`
+Example Sort Value: `5`
 
-This is the number of total seconds we use to sort and rank each score.
+The formatted string is what will show up on your game's page. The sort value is the numeric value that Game Jolt uses to rank the score among the other scores on the scoreboard.
 
 ## Extra data
 
