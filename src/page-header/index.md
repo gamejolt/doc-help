@@ -8,12 +8,13 @@ You might want to experiment with different images to see what looks good as a h
 
 Here are the requirements and recommendations for header images:
 
+- Use a rectangular image.
 - The image format can be PNG, JPG, or GIF. PNGs will result in the highest quality. 
-- In general, your image should be as large as possible. 
-- The minimum recommended width is 950px. Images less wide than this will be automatically enlarged and blurry. The maximum width is 5120px.
-	- The minimum ratio (width/height) is 2.7 and the maximum ratio is 6.3. The recommended ratio is 4. 
-    - We recommend making the height 25% of the width.
-    - To find a good height, divide the width by 4 (it can actually be any number between 2.7 and 6.3).
-    - If you have the height and need a good width, just multiply the height by 4 (or anything between 2.7 and 6.3).
+- Your original image should be as large as possible. 
+- The minimum width is 950px. The maximum width is 5120px.
+	- The minimum ratio (width ÷ height) is 2.7 and the maximum ratio is 6.3. The recommended ratio is 4. 
+	- We recommend making the height 25% of the width.
+	- To find a good height, divide the width by 4 (it can actually be any number between 2.7 and 6.3).
+	- If you have the height and need a good width, just multiply the height by 4 (or anything between 2.7 and 6.3).
 - Make sure anything important is located near the center of the image. This will ensure your header looks its best on mobile devices.
 - Only use an original image created or captured by you or your team. 
