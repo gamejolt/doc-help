@@ -13,10 +13,3 @@ You can add videos that you created, but not videos that other people made about
 
 Note that if your game is a work-in-progress and you haven't published a build, videos are probably the best way of showing off your development.
 
-[What type of media files can I add to my game page?](/media-files/index.md)
-
-[Adding screenshots to my game page](/add-image/index.md)
-
-[Adding music to my game page](/add-music/index.md)
-
-[How do I edit/manage my game?](/manage-game/index.md)
