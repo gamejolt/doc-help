@@ -1,29 +1,31 @@
 # Scores
 
-Scoreboards are a great way to get gamers to engage with your game through competition. The Game Jolt Game API allows you to add multiple, customized scoreboards. 
+Scoreboards are a great way to get gamers to engage with your game through competition. The Game Jolt Game API allows you to add multiple, customized scoreboards to your game. 
 
-## Multiple Scoreboards
+## Multiple scoreboards
 
-Add multiple scoreboards so you could have, for example, one for each level of the game, as well as a global scoreboard. Or, you could make one that ranks players by something besides points, like total time or number of jumps.
+Create multiple scoreboards and have, for example, one for each level of the game, as well as one for global scores. Or make scoreboards that rank players by something other than points, such as time, kills, or cookies eaten.
 
-## Guest Scoring
+## Guest scoring
 
-Enable guest scoring for players without Game Jolt accounts can submit their score. Allowing guest scoring could result in unwanted and offensive names on your scoreboard. Submitted names are case sensitive.
+Enable guest scoring so players without Game Jolt accounts can submit their scores. Be aware that allowing guest scoring could result in unwanted and offensive names on your scoreboard. Submitted names are case sensitive.
 
-## Unique Scoring
+## Unique scores
 
-You have control over sorting options, so you could make a traditional scoreboard, where the same person can occupy multiple slots, or you could make it so that only someone's best score is displayed.
+If you enable unique scores and someone submits multiple scores, only their best will be displayed. Turn off unique scoring to make a traditional, arcade-style scoreboard where the same person can occupy multiple slots.
 
-## Score Strings vs Sort Values
+## Sort direction
 
-When logging the user's score in your game, you can pass in a different value for the score's string/text value, and a different value for the sort. The reason for this is for when you want to format your score differently than just a numeric value.
+You can set a scoreboard's sort direction to be descending (bigger numbers on top) or ascending (smaller numbers on top). Most scoreboards are descending, but you'd want to use ascending if you have a game where, for example, lower times are better, or a golf game.
 
-Example Formatted String: `5 bubbles popped`
+## Score strings vs sort values
+
+When logging a player's score in your game, you can make the score string different from the sort value. The **sort value** is an integer and the basis for a score's ranking. The **score string** can be more than just a number and is what shows up on the scoreboard.
 
 Example Sort Value: `5`
 
-The formatted string is what will show up on your game's page. The sort value is the numeric value that Game Jolt uses to rank the score among the other scores on the scoreboard.
+Example Formatted String: `5 bubbles popped`
 
 ## Extra data
 
-Use the extra data field to collect additional information such as playtime, number of keypress, etc. to weed out cheaters. The user will never see this, it is only accessible from the developer’s dashboard.
+You can use the extra data field to collect additional information such as play time, number of keystrokes, etc. to weed out cheaters. The user will never see this--it is accessible only from the developer dashboard.
