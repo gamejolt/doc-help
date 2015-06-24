@@ -48,8 +48,6 @@ Version number formats adhere to the [SemVer specifications](http://semver.org/)
 
 ## Builds and files
 
-Builds are just files with settings attached to them to let us know how to run and open them.
-
 Builds are the files that you upload into your packages. They can be either downloadable game files, browser-based game files, or additional files such as art packs, source code, PDFs, etc.
 
 For downloadable builds, you must set the platform(s) that they run on. You can only have one build for each platform within a release. If you'd like to add another build for the same platform, you probably want to make a new release or package. If your build isn't an application, but instead an additional downloadable file such as a PDF or archive of images/music, select the "Other" platform. You can add as many "Other" builds as you'd like within a release.
