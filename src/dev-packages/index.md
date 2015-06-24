@@ -1,3 +1,7 @@
+---
+title: Packages, Releases and Builds Guide
+---
+
 # Builds/Files
 
 Builds and packages are how you organize and distribute your game's files for people to play and download.
@@ -16,7 +20,7 @@ Packages contain versioned releases so that gamers can easily identify the lates
 
 ## Releases
 
-Releases communicate that new versions of the builds in your package are available. 
+Releases communicate that new versions of the builds in your package are available.
 
 We provide you metrics per release so you can measure the success of your current and past releases (*and future!*).
 
@@ -44,7 +48,7 @@ Version number formats adhere to the [SemVer specifications](http://semver.org/)
 
 ## Builds and files
 
-Builds are just files with settings attached to them to let us know how to run and open them. 
+Builds are just files with settings attached to them to let us know how to run and open them.
 
 Builds are the files that you upload into your packages. They can be either downloadable game files, browser-based game files, or additional files such as art packs, source code, PDFs, etc.
 

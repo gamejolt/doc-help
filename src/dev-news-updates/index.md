@@ -1,3 +1,7 @@
+---
+title: News Updates Guide
+---
+
 # What is a news update?
 
 News updates are a great way to garner your game some new or renewed publicity. They are the primary means of staying in contact with your game's followers. Post news updates whenever something interesting happens with your game. Followers will be sent notifications and the news will be archived on your game page.
