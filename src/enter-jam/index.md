@@ -1,3 +1,7 @@
+---
+title: How to Enter a Game Jolt Jam
+---
+
 # How to Enter a Game Jolt Jam
 
 ## Create a Developer Account
