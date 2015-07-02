@@ -6,9 +6,9 @@ title: What is the Game API?
 
 Our Game API lets your games communicate with the Game Jolt servers. Implementing the Game API will allow you to add a number of features to your game, including:
 
-- Online score tables
-- Trophies (achievements)
-- Cloud data storage
+- [Online score tables](https://help.gamejolt.com/dev-scoreboards)
+- [Trophies (achievements)](https://help.gamejolt.com/dev-trophies)
+- [Cloud data storage](https://help.gamejolt.com/dev-data-storage)
 - Game session logging
 - User verification and auto-login
 
@@ -35,7 +35,7 @@ Members of the Game Jolt community have already written libraries, wrappers, and
 - [Python](http://gamejolt.com/community/forums/topics/python-module-for-gjapi/1414/)
 - [RPG Maker VX Ace](http://gamejolt.com/community/forums/topics/gamejolt-achievement-api-for-rpg-maker-vx-ace-beta/5140/)
 - [RPG Maker XP](http://gamejolt.com/community/forums/topics/rpg-maker-xp-achievement-api-beta/7570/)
-- [Unity](http://gamejolt.com/community/forums/topics/unity-api/1803/)
+- [Unity](http://gamejolt.com/games/unity-api/15887)
 - [Visual Basic](http://gamejolt.com/community/forums/topics/visual-basic-game-jolt-api/2874/)
 
 Don't see your platform? Check the [API forums](http://gamejolt.com/community/forums/game-achievements/9/). There might be something new there that hasn't made it's way here yet.
