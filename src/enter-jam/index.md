@@ -13,7 +13,7 @@ Already have one? Then skip to the next section. If not, read on.
 
 ## Create a Game Page
 
-Making a game page before your game is finished allows people to follow its development on the jam's activity feed (if the jam has one).
+You can make a game page before your game is finished. This will allow people to follow your game's development on the jam's activity feed (if the jam has one).
 
 1. **Go to your [developer dashboard](http://gamejolt.com/dashboard/),** where you can add and edit games.
 2. **Add your game.** Hit the big "Add a Game" button. Read and agree to the rules to continue.
@@ -25,11 +25,13 @@ Making a game page before your game is finished allows people to follow its deve
 
 To enter your game in the jam, **put the jam hashtag in the game's description**. You can edit the description from the game's management page on your [dashboard](http://gamejolt.com/dashboard/). Make sure to add the hashtag after the jam begins, but before the jam ends.
 
+Adding a jam hashtag creates an entry page on the jam site. The game's rank in the jam results will be calculated based on the ratings from the jam entry page, not the original game page.
+
 ![Enter Hashtag](/enter-jam/enter-hashtag.png)
 
-## Add Game Distributions
+## Add Game Files
 
-Before the jam's deadline, upload one or more game distributions (builds). Distributions, like game pages, are hidden by default, so be sure to unhide them.
+Before the jam's deadline, upload one or more game releases. Releases, like game pages, are hidden by default, so be sure to unhide them.
 
 ![Publish Distribution](/enter-jam/unhide-distribution.png)
 
@@ -38,7 +40,7 @@ Before the jam's deadline, upload one or more game distributions (builds). Distr
 _Optional but recommended._
 
 - When you create a game page, it is hidden by default. A game will show up in the jam as long as the hashtag is in its description, even if the game page is hidden; however, it won't show up in the regular Game Jolt game listings.
-- Before you can unhide your page, it needs two more things: a thumbnail and a maturity rating. You can add these from the game's management page on your [dashboard](http://gamejolt.com/dashboard/).
+- Before you can publish your game page, your game needs two more things: a thumbnail and a maturity rating. You can add these from the game's overview page on your [dashboard](http://gamejolt.com/dashboard/).
 - When you're ready, click "Unhide your game."
 
 ![Publish Game](/enter-jam/unhide-link.png)
