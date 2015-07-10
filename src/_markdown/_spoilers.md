@@ -22,17 +22,15 @@ Not a spoiler.
 
 ```
 
+<!-- Sadly we have to do this manually -->
 <h5 class="text-muted">RESULT</h5>
 
->! This is a spoiler.
+<blockquote class="spoiler">This is a spoiler.
 
->! Still spoiling!
+	Still spoiling!</blockquote>
 
 Not a spoiler.
 
->! Spoilers are **cool**. Here, have some:
+<blockquote class="spoiler">Spoilers are **cool**. Here, have some:
 
->! - It was all just a dream.
->! - He was dead the whole time!
->! - They were really the same person.
->! - Rosebud's a sled.
+	<ul><li>It was all just a dream.</li><li>He was dead the whole time!</li><li>They were really the same person.</li><li>Rosebud's a sled.</li></ul></blockquote>
