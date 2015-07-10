@@ -18,3 +18,4 @@ Markdown is a cinch to learn. You can use the cheat sheet below to familiarize y
 {% include '_markdown/_tables.md' %}
 {% include '_markdown/_horizontal-rules.md' %}
 {% include '_markdown/_code.md' %}
+{% include '_markdown/_spoilers.md' %}
