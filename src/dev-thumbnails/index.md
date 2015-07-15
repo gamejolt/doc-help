@@ -17,7 +17,7 @@ These little images can be the difference between someone checking out your game
     - _Tip:_ This will help if you're not using our cropping tool. You can find the necessary height by taking the image's current width and multiplying it by 0.5625.
 - The maximum file size is 3MB. If your file is larger, try compressing and/or optimizing the image.
 - Your file must be a PNG, JPG, or a GIF. PNGs yield the best image quality.
-- Animated GIFs are supported, so you can show gamers a preview of your game in motion when they hover over the thumbnail.
+- **Animated GIFs are supported.** Let gamers see a preview of your game in motion when they hover over the thumbnail.
 - Only use an original image created or captured by you or your team.
 
 ## Choosing a thumbnail image
