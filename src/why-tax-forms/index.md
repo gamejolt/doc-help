@@ -2,7 +2,7 @@
 title: Why we need W9/W8 information
 ---
 
-#Why we need W9/W8 information
+# Why we need W9/W8 information
 
 The IRS requires us to report US earnings and if you're not a US resident/citizen, we are required to collect a W8 form for proof of foreign residency/citizenship.
 
