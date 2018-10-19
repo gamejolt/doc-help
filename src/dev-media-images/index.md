@@ -14,8 +14,8 @@ Say you built your game's graphics out of clay; a photo of the models might make
 
  - The image format can be PNG, JPG, or GIF. PNGs will result in the highest quality.
  - Your original image should be as large as possible.
- - The maximum width and height dimensions are 5120x2880px.
- - The maximum file size is 3MB. If your file is larger, try compressing and/or optimizing the image.
+ - The maximum width and height dimensions are 5120x5120px.
+ - The maximum file size is 10MB. If your file is larger, try compressing and/or optimizing the image.
  - Only use an original image created or captured by you or your team.
 
 ## How to add images
