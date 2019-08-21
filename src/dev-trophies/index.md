@@ -1,6 +1,6 @@
 # Trophies
 
-Trophies are intended for games that utilize the [Game Jolt Game API](http://gamejolt.com/developers/achievements). You can set up different trophies on Game Jolt before integrating them into your game. Assign materials to your trophies carefully because they award Game Jolt EXP points to the player when achieved.
+Trophies are intended for games that utilize the [Game Jolt Game API](https://gamejolt.com/developers/achievements). You can set up different trophies on Game Jolt before integrating them into your game. Assign materials to your trophies carefully because they award Game Jolt EXP points to the player when achieved.
 
 ## Trophy materials
 

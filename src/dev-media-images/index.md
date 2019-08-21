@@ -16,4 +16,4 @@ Say you built your game's graphics out of clay; a photo of the models might make
 
 ## How to add images
 
-To add images, go to your [developer dashboard](http://gamejolt.com/dashboard/) and select a game from under "Your Games". You will be taken to the game's overview page. Visit the "Media" tab and start adding images!
+To add images, go to your [developer dashboard](https://gamejolt.com/dashboard/) and select a game from under "Your Games". You will be taken to the game's overview page. Visit the "Media" tab and start adding images!
