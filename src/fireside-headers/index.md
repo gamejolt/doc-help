@@ -1,7 +1,3 @@
----
-title: Fireside Header Images
----
-
 # Fireside Header Images
 
 They say a picture's worth 1,000 words... Our research shows it's really only about 500, but a header image is an integral addition to just about any post.

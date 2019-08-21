@@ -1,8 +1,4 @@
----
-title: Maturity Ratings Guide
----
-
-# What is a maturity rating?
+# Maturity Ratings Guide
 
 Setting a maturity rating for your game is required. Maturity ratings are important because they allow people to make informed decisions about what they choose to play--or allow their children to play. We don't mind having games with mature content on the site as long as they are rated appropriately.
 

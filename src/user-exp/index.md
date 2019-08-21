@@ -1,7 +1,3 @@
----
-title: How do EXP and levels work?
----
-
 # How do EXP and levels work?
 
 Certain things you do on the site will earn you EXP (experience points). Get enough EXP and you will level up!

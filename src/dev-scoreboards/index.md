@@ -1,8 +1,4 @@
----
-title: Scoreboards Guide
----
-
-# Scores
+# Scoreboards Guide
 
 Scoreboards are a great way to get gamers to engage with your game through competition. The Game Jolt Game API allows you to add multiple, customized scoreboards to your game.
 

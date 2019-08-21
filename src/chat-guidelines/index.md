@@ -1,7 +1,3 @@
----
-title: Chat Guidelines
----
-
 # Chat Guidelines
 
 - Treat **everyone** with respect.

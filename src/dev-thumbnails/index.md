@@ -1,8 +1,4 @@
----
-title: Game Thumbnail Guide
----
-
-# What is a thumbnail?
+# Game Thumbnail Guide
 
 Your game's thumbnail is probably the most important image of your game on the site. This is the image that will appear in game listings, in search results, and so on.
 
@@ -14,7 +10,7 @@ These little images can be the difference between someone checking out your game
 - The maximum width and height dimensions are 2000x2000px.
 - Your original image should be as large as possible.
 - The aspect ratio must be 16x9. If it's not 16x9, you can use the handy cropping tool that we've provided. Alternatively, you can crop it with your tool of choice before uploading.
-    - _Tip:_ This will help if you're not using our cropping tool. You can find the necessary height by taking the image's current width and multiplying it by 0.5625.
+  - _Tip:_ This will help if you're not using our cropping tool. You can find the necessary height by taking the image's current width and multiplying it by 0.5625.
 - The maximum file size is 30MB. If your file is larger, try compressing and/or optimizing the image.
 - Your file must be a PNG, JPG, or a GIF. PNGs yield the best image quality.
 - **Animated GIFs are supported.** Let gamers see a preview of your game in motion when they hover over the thumbnail.
@@ -28,7 +24,7 @@ A good thumbnail should be more than just a title floating on a blank background
 
 Don't stress out too much about getting your image to the correct size; there's a handy cropper tool to make it easy for you. But you should still start out with a high-quality original image.
 
-Only use images that you created. Don't use another game's image, an internet meme, something you found on Deviantart, or anything like that.
+Only use images that you created. Don't use another game's image, an internet meme, something you found on DeviantArt, or anything like that.
 
 ### Mature content in thumbnails
 

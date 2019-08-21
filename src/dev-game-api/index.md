@@ -1,7 +1,3 @@
----
-title: What is the Game API?
----
-
 # What is the Game API?
 
 Our Game API lets your games communicate with the Game Jolt servers. Implementing the Game API will allow you to add a number of features to your game, including:
@@ -48,4 +44,3 @@ Don't see your platform? Check the [API forums](http://gamejolt.com/community/fo
 If you want to use the Game API without using a library/wrapper/plugin, or if you want to write something custom, you can check out the [Game API documentation](http://gamejolt.com/api/doc/game).
 
 Need Game API help? The [API forums](http://gamejolt.com/community/forums/game-achievements/9/) should be your first stop.
-
