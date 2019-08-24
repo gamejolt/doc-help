@@ -20,7 +20,7 @@ Trophy images aren't required, but we highly recommend adding them to make your 
 Here are the guidelines for trophy images:
 
 - Use a square image.
-- The image format can be PNG, JPG, or GIF. PNGs will result in the highest quality.
+- The image format can be PNG or JPG. PNGs will result in the highest quality.
 - Your original image should be as large as possible.
 - The maximum dimensions are 2000x2000px.
 - The maximum file size is 3MB. If your file is larger, try compressing and/or optimizing the image.

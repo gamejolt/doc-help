@@ -8,7 +8,7 @@ Say you built your game's graphics out of clay; a photo of the models might make
 
 ## What are the image requirements and guidelines?
 
-- The image format can be PNG, JPG, or GIF. PNGs will result in the highest quality.
+- The image format can be PNG or JPG. PNGs will result in the highest quality.
 - Your original image should be as large as possible.
 - The maximum width and height dimensions are 5120x5120px.
 - The maximum file size is 10MB. If your file is larger, try compressing and/or optimizing the image.
