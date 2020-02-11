@@ -4,10 +4,11 @@ User blocking is a feature that allows you to control when a user can interact w
 
 ### How to block a user?
 
-There are two ways of blocking a user on Game Jolt:
+There are three ways of blocking a user on Game Jolt:
 
  - Navigate to your Edit Account page, and select "Blocked Users". Click "Block User" and enter the username (without the `@`) into the form and press "Block".
  - Visit the user's profile and find the "Block User" option in the "..." menu.
+ - After reporting a user, click "Block" in the follow-up form.
 
 ### Here's a more detailed list of effects that occur when blocking a user:
 
@@ -17,6 +18,10 @@ There are two ways of blocking a user on Game Jolt:
  - The blocked user will not be notified of you blocking them. However the blocked user will see a notice when visiting your profile informing them about the block.
  - When you come across a comment or post made by the blocked user outside of their profile, it will be hidden. You can click a button that unhides the comment or post if you choose to do so.
  - You will not encounter the blocked user in user recommendations.
+ - You will not receive any notifications addressed to you by any users you've blocked.
+   - Emails about those blocked events will also not be sent to you.
+
+Keep in mind that these effects only apply when you visit Game Jolt while being logged in to your account.
 
 ### Restrictions that apply to users you blocked:
  
