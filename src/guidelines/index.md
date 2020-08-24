@@ -101,7 +101,7 @@ The following offenses apply to all forms of content on Game Jolt including but 
 
 - **Adult content**
 
-  Illicit or realistic pornography and gore is not permitted on Game Jolt.
+  Pornography and gore of an illicit or realistic nature is not permitted on Game Jolt.
 
   Here’s a list of where adult content is allowed, along with rules that should be followed for each area:
 
