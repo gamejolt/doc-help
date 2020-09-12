@@ -1,0 +1,107 @@
+# How do I add my game to Game Jolt?
+
+First of all, you need to have a developer account. If you don't yet have one, just [go here](http://gamejolt.com/dashboard/become-developer/). 
+
+1. If you don't have a Game Jolt account at all, [sign up](http://gamejolt.com/auth/sign_up/) for one, and choose "Developer" when the time comes. 
+2. Dev account all set up? Good. Select "Dashboard" on the black nav bar at the top of the page. Welcome to your [developer dashboard](http://gamejolt.com/dashboard/)! Now hit the big "Add a Game" button. Go ahead, do it. 
+
+## Step 1: Add game information
+
+You'll need to fill in some basic information about your game in order to proceed.
+
+### Title
+
+Surely your game has a name. Put it here.
+
+[Choosing a game title](/game-title/index.md)
+
+### Website 
+
+If you wish to link to a personal website about the game or about your games in general, this is the place to do it.
+
+### Category
+
+You have to choose a category for your game. The category you pick is entirely up to you. Categories are meant to be helpful, not restrictive. They are signposts to aid gamers in finding the games they want to play.
+
+[Choosing a game category](/game-category/index.md)
+
+### Development Status
+
+You must indicate the status of your game's development. You can choose one of three options:
+
+- Finished: Your game is complete. You're uploading a build, and that build is stable. You might upload fixes or other small updates, but you don't expect to make any major changes. 
+- Work-in-Progress: Your game is still in development. You might have an alpha/beta/test build for people to play, but it may be unstable. Major updates are planned. 
+- Canceled: Your game is not what you'd consider complete, but you've ceased development on it. There is a playable build (stable or not), but you don't plan to ever update the game. 
+
+[What is the development status of my game?](/game-status/index.md)
+
+### Engine/Language
+
+Let us, and other developers, know what engine, language, or game creation tool you used. Select yours from the list. If you select "Other", please type in what you used.
+
+[What engine/language can I use for my game?](/game-engine/index.md)
+
+### Description
+
+This is important, which is why you have to write something here now. Don't worry; your game page will remain hidden until you are ready to publish it, so your description doesn't have to be final yet. You can start with a rough description and then hone it and add to it progressively. Spend some time on your game description before you publish. This is your chance to tell prospective players why they should spend their time playing your game.
+
+Here are some ideas of what you could put in your game description:
+
+- Elevator pitch: In just a sentence or two, deliver a hook. What makes your game unique and interesting? 
+- Story overview: Tell us a little about the game's plot and characters. For example: Who do we control? Why are we doing what we're doing? Who or what's trying to stop us? Where is it all taking place? 
+- Gameplay summary: Describe how your game plays. Is it like a mix of these two cool games, with a twist of this other one? Is it something completely unheard of? How would you describe it? 
+- Development background: You could let people know a little about the origin of the game and how long it took to make. Was it the product of a jam? Was it a school project? What was your inspiration? What was your objective in making this game? 
+- Instructions/controls: How does one play the game? What keys do we press? Is a controller recommended? Is it compatible with peripherals like Oculus Rift or Leap Motion? 
+- Credits/thanks: Even if you've already done so in the game, you can go ahead and give credit here to collaborators, musicians, and anyone else to whom credit is due. If you like, you can give special thanks to anyone who may have helped or inspired you, as well. 
+- Request feedback: If you're looking for some good feedback, encourage people to leave some in the comments. It's assumed that you want feedback simply by virtue of having posted your game on the site, but it can help to let players know that you're really interested in comments and willing to update the game based on them. 
+- Plans: If the game is a work-in-progress, explain your vision for the final version. Do you have a development roadmap or a target date for completion? How often do you think you will work on the project? Be sure to encourage visitors to follow your game so they can be notified of news updates. 
+- History: If you've made updates to your game, you can put a quick summary of them here. If you have multiple builds, you can let people know what to expect in each one, and which one is the latest. 
+
+[Writing a game description](/game-description/index.md)
+
+## Step 2: Add your game
+
+Once you hit the "Add Game" button, your game page will be created. However, the page starts out hidden and only those with the link can view it. As long as it's hidden, it will not show up in search results nor appear in the Newly Added section. Your game page is hidden until you publish it.
+
+## Step 3: Publish your game page
+
+When you are ready to publish your game page, head over to your [dashboard](http://gamejolt.com/dashboard/) and select the game from the list under "Your Games". You will be taken to the game's overview page. Here, you can publish the game after you have completed the required set-up steps.
+
+### Required set-up steps
+
+Before you can publish your game page, it needs two or three things:
+
+1. A thumbnail image 
+2. A maturity rating
+3. A build (if your game is Complete or Canceled)
+
+[What is a thumbnail image?](/thumbnail-image/index.md) 
+  
+[What is a maturity rating?](/maturity/index.md)  
+
+[Adding builds/files to my game page](/add-build/index.md)
+
+### Recommended set-up steps
+
+You may also want to add some media, music, and a page header to your game page before you publish.
+
+[Adding images to my game page](/add-image/index.md)
+
+[Adding video to my game page](/add-video/index.md)
+
+[Adding music to my game page](/add-music/index.md)
+
+[What is a page header?](/page-header/index.md)
+
+
+## Related Topics
+
+[How do I publish my game?](/publish-game/index.md)
+
+[How do I edit/manage my game?](/manage-game/index.md)
+
+[What kind of games can I put on Game Jolt?](/free-games/index.md)
+
+[What are the rules for putting a game on Game Jolt?](/game-rules/index.md)
+
+[How do I make a game?](/make-game/index.md)
