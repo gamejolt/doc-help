@@ -38,11 +38,13 @@ Without further ado, we present to you the Game Jolt Site Guidelines! 🎉🎉�
 
 - **Send a report.**
 
-  If you see someone doing something wrong on Game Jolt, please do not direct everyone else’s attention to the matter. Rather, use the report button found on every user profile, game page, post and comment to report the issue for our moderators to review. Handling matters this way will ensure a more positive experience for other users.
+  If you see someone doing something wrong on Game Jolt, please do not direct everyone else’s attention to the matter by the use of posts, shouts, Communities, etc. Rather, simply use the report button found on every user profile, game page, post and comment to report the issue for our moderators to review. Handling matters this way will ensure a more positive experience for other users.
 
   When reporting something, always provide as much information as possible so our moderators know what the issue is and can react quickly and efficiently.
 
   However, please do not abuse the report button. Reporting an individual or content multiple times in succession for the exact same offense, reporting for the same offense via the use of multiple accounts belonging to one user, and slander are not acceptable. One truthful report per offense from each affected user is all it takes to help our team get to the bottom of things.
+
+  Also, while we greatly appreciate our community’s desire for Game Jolt to be completely free of all offensive content, do remember that we have moderators who are already working hard at taking care of this for us with the help of user-sent reports that come along with natural use of our site. We ask that you do not go out of your way to find misconduct or form groups/Communities for such a purpose; doing so only rewards offensive behavior by bringing more attention to it and often leads to greater problems.
 
 ## Bannable offenses on Game Jolt
 
@@ -60,6 +62,7 @@ The following offenses apply to all forms of content on Game Jolt including but 
   - Racism.
   - Belittling someone for their actions, ideas or beliefs.
   - Calling someone out in a negative context in a public space.
+  - Trolling or submitting negative statements with the aim of stirring up arguments or drama.
   - Offensive images, videos and animations.
   - Posting screenshots or video of private conversations without permission of the involved parties.
   - Leaking/posting privately shared information or content (known as "doxxing").
@@ -76,7 +79,7 @@ The following offenses apply to all forms of content on Game Jolt including but 
   - Excessive and/or repeated tagging of users in posts, comments and other content.
   - Posting nonsensical text or images (i.e. content that is not intended to make sense in the first place).
   - Posts that include links to off-topic or monetized external websites.
-  - Repeatedly posting in quick succession.
+  - Repeatedly posting in quick succession (via posts, shouts, chat, comments, etc.).
   - Duplicate posts.
   - Performing actions that result in notifications on a single user’s content in quick succession with negative intention. For example, following users and games.
   - Using bots or scripts to post, like, and follow content at inhumane rates.
@@ -113,8 +116,14 @@ The following offenses apply to all forms of content on Game Jolt including but 
   - Posts
 
     - The post should be on topic for its location and not be found in any inappropriate places. For example, a Community that doesn’t allow or feature adult content.
-    - No NSFW media (images, youtube videos, models) are allowed. You can include adult content in the article of a post, but only if the lead of the post gives proper warning of the content contained within.
+    - No NSFW post media (images, youtube videos, models) are allowed in post leads. You can include adult content in the article of a post, but only if the lead of the post gives proper warning of the content contained within.
     - No surprise adult content. Again, users should be provided with clear warnings so as not to accidentally encounter NSFW (not safe for work) content.
+
+  - Communities
+
+    - The Community's thumbnail, header and channel thumbnails must not contain any explicit content.
+    - Posts submitted to Communities that allow or feature NSFW content should not contain NSFW post media in their leads. Adult content can be included in articles of submitted posts only if proper warning is given in the posts' leads.
+    - Communities that allow NSFW content within designated channels should be diligent in keeping such content confined to the proper channels.
 
 ## Questions and concerns
 
