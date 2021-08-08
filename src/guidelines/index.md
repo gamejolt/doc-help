@@ -4,7 +4,7 @@
 
 Game Jolt is freely open to people of all kinds and from all different places. Our aim is to have a welcoming, friendly and supportive community for everyone to enjoy!
 
-Because Game Jolt is so diverse, having clearly defined guidelines will help all of us to remain open-minded and tolerant of one another. Failure to follow these guidelines can lead to content being removed, users getting blocked from certain Communities, or even being permanently banned or removed from Game Jolt. Though it is necessary, taking such action saddens us, so we ask that you please consider these guidelines carefully so that we can have as big and happy a community as possible!
+Because Game Jolt is so diverse, having clearly defined guidelines will help all of us to remain open-minded and tolerant of one another. Failure to follow these guidelines can lead to content being removed, users getting blocked from certain Communities, Community ownership or other privileges being revoked/transferred, verification being lost, or even being permanently banned or removed from Game Jolt. Though it is necessary, taking such action saddens us, so we ask that you please consider these guidelines carefully so that we can have as big and happy a community as possible!
 
 Without further ado, we present to you the Game Jolt Site Guidelines! 🎉🎉🎉
 
@@ -50,7 +50,7 @@ Without further ado, we present to you the Game Jolt Site Guidelines! 🎉🎉�
 
 The following items will help to define some of the bannable offenses on Game Jolt. These are things that, if done, may result in someone's account being banned or even completely removed from the site.
 
-Note that our moderators research and react to everything on a case by case basis. This means the results of an offense will vary and some offenses that result in disciplinary action may not be included on this list at all. While the reporting feature helps us get a better understanding of a situation, we still carefully review the actions of each user before making any decisions.
+Note that our moderators research and react to everything on a case by case basis. This means the results of an offense will vary and some offenses that result in disciplinary action may not be included on this list at all. While the reporting feature helps us get a better understanding of a situation, we still carefully review the actions of each user before making any decisions. Please note that we refrain from revealing the offenses of users publicly, as doing so would be a violation of privacy.
 
 The following offenses apply to all forms of content on Game Jolt including but not limited to games, Communities, posts, comments, shouts and personal messages.
 
@@ -111,7 +111,7 @@ The following offenses apply to all forms of content on Game Jolt including but 
   - Games
 
     - The thumbnail must not contain any explicit content.
-    - The game must both be given the appropriate maturity rating and marked as Adult. To mark a game as Adult, add the hashtag `#adult` into the game’s description on its game page.
+    - The game must both be given the appropriate maturity rating and marked as Adult. To mark a game as Adult, add the hashtag #adult into the game’s description on its game page.
 
   - Posts
 
@@ -124,6 +124,61 @@ The following offenses apply to all forms of content on Game Jolt including but 
     - The Community's thumbnail, header and channel thumbnails must not contain any explicit content.
     - Posts submitted to Communities that allow or feature NSFW content should not contain NSFW post media in their leads. Adult content can be included in articles of submitted posts only if proper warning is given in the posts' leads.
     - Communities that allow NSFW content within designated channels should be diligent in keeping such content confined to the proper channels.
+
+## Community ownership and moderation
+
+Being the owner or moderator of a Community of users who share your interests on Game Jolt is exciting! These opportunities do not come without responsibilities, however. This section of our guidelines is focused on helping Community owners and moderators understand what is expected of them, and what could lead to the removal of their privileges within a Community.
+
+- **Community Owners**
+
+  - While Communities are free to have their own specific set of rules listed in their descriptions or pinned in their channels, every Community is also subject to our Site Guidelines.
+  - Choose your moderators and/or collaborators wisely and carefully. Remember that your moderators will have the power to make changes and decisions within your Community that could have a heavy impact on your Community’s reputation.
+  - Check and make sure that your Community is being properly cared for, not only having undesirable content removed, but also good content featured if your Community grants posting privileges to users who are not moderators.
+  - Inactive owners could have their ownership of a Community transferred to the most active and responsible moderator within their Community (or to Game Jolt until a new owner can be found), so please be sure to interact with your Community frequently (i.e posting, replying to, and featuring good content).
+  - Owners should also take note of whether their Community’s moderators/collaborators are active. Using your best judgement, such responsibilities may need to be transferred to another user who is capable and willing to help.
+
+- **Community Moderators**
+
+  - Help to keep the Community active by removing unwanted content and featuring good/interesting content (if applicable).
+  - Avoid creating posts that violate our guidelines, such as: public call-outs and/or screenshots that expose other users for wrongs committed, so-called “rants” targeting the Community itself, its members, or a specific user, and derogatory statements about other Communities.
+  - Moderators should be aware of our Site Guidelines so that they can—along with removing offending posts, comments, and users from the Community—use the reporting function wherever necessary so that Game Jolt’s own moderation team can remove unwanted content and offending users.
+  - Before featuring content, please make sure to the best of your ability that the content has not been stolen from another source. This can be difficult, but an initial check will at least help to reduce the chances of stolen content being featured.
+
+- Do not:
+
+  - Create Community channels that attack or target specific users.
+  - Add Community rules that somehow violate Game Jolt’s ToS and/or Site Guidelines.
+  - Instigate or contribute to drama within a Community by making public any sort of disagreements that have occurred among its collaborators.
+
+## User and Community verification
+
+Sometimes we endow users and Communities with a verification badge. This section will attempt to clarify the purpose of verification, the conditions that are considered before users/Communities are selected for verification, as well as events that could ultimately lead to the removal of verification.
+
+When it comes to users, verification can help those who are prime targets of impersonation—as well as onlookers—to identify them as being truly who they say they are. As such, user verification is primarily a form of identity protection. However, Game Jolt also occasionally verifies users who are shining examples.
+
+- Users are considered for verification when they:
+
+  - Are part of the Game Jolt staff.
+  - Officially represent a well-known company or development team.
+  - Have created content that goes viral.
+  - Make a positive impact on Game Jolt as outstanding examples of good conduct.
+  - Are standout creators.
+  - Work hard as Community owners/moderators to create an enjoyable environment for others.
+
+- Communities are considered for verification when they:
+  - Are well maintained by their owners/moderators.
+  - Have frequent activity from their members.
+  - Create a friendly and inviting atmosphere.
+  - Fill an interest that is unique and highly desired, or are the main hub of a popular topic.
+
+Verified users do not represent Game Jolt, but verification does highlight users/Communities in the public eye. Verified users should ensure that they are taking good care of this privilege to keep from losing their badge, or in the case of owners of verified Communities, have their ownership transferred.
+
+- Verification could be lost when:
+
+  - A verified user severely or repeatedly violates Game Jolt’s ToS and/or Site Guidelines. Similarly to when a regular user account faces disciplinary action, depending on the severity of an offense when evaluated by Game Jolt, a verified user may either be given a warning or immediately lose their verification badge.
+  - A user verified primarily for being a good Community owner/moderator loses control over or neglects their Community.
+  - A verified user announces that they are leaving Game Jolt permanently or for the foreseeable future.
+  - There is a clear lack of activity from a verified user or Community, except in the case of individuals/entities who are particularly at risk of impersonation.
 
 ## Questions and concerns
 
