@@ -50,7 +50,7 @@ Without further ado, we present to you the Game Jolt Site Guidelines! 🎉🎉�
 
 The following items will help to define some of the bannable offenses on Game Jolt. These are things that, if done, may result in someone's account being banned or even completely removed from the site.
 
-Note that our moderators research and react to everything on a case by case basis. This means the results of an offense will vary and some offenses that result in disciplinary action may not be included on this list at all. While the reporting feature helps us get a better understanding of a situation, we still carefully review the actions of each user before making any decisions. Please note that we refrain from revealing the offenses of users publicly, as doing so would be a violation of privacy.
+Note that our moderators research and react to everything on a case by case basis. This means the results of an offense will vary and some offenses that result in disciplinary action may not be included on this list at all. While the reporting feature helps us get a better understanding of a situation, we still carefully review the actions of each user before making any decisions. Please also note that we avoid revealing the offenses of users publicly whenever possible.
 
 The following offenses apply to all forms of content on Game Jolt including but not limited to games, Communities, posts, comments, shouts and personal messages.
 
@@ -102,28 +102,20 @@ The following offenses apply to all forms of content on Game Jolt including but 
 
   On Game Jolt, we value everyone’s privacy and do our absolute best to ensure that private information remains that way. As such, sharing personally identifiable information or content that may reveal private details about others is unacceptable.
 
-- **Adult content**
+## Adult content
 
-  Pornography and gore of an illicit or realistic nature is not permitted on Game Jolt.
+**Pornography, sexually explicit content, or gore of an illicit or realistic nature are not permitted on Game Jolt.**
 
-  Here’s a list of where adult content is allowed, along with rules that should be followed for each area:
+- Do not post, upload, livestream, or share:
+- Content that depicts, solicits, promotes, normalizes, or glorifies sexual acts, sexual solicitation and sexual violence.
 
-  - Games
+We do not allow depictions, including digitally created or manipulated content, of nudity or sexual activity.
 
-    - The thumbnail must not contain any explicit content.
-    - The game must both be given the appropriate maturity rating and marked as Adult. To mark a game as Adult, add the hashtag #adult into the game’s description on its game page.
+We are mindful of content that may be offensive or culturally inappropriate in certain regions or may not be suitable for users of all ages.
 
-  - Posts
+Game Jolt may allow other options for NSFW content in the future if/when a solution for proper moderation of such content is found.
 
-    - The post should be on topic for its location and not be found in any inappropriate places. For example, a Community that doesn’t allow or feature adult content.
-    - No NSFW post media (images, youtube videos, models) are allowed in post leads. You can include adult content in the article of a post, but only if the lead of the post gives proper warning of the content contained within.
-    - No surprise adult content. Again, users should be provided with clear warnings so as not to accidentally encounter NSFW (not safe for work) content.
-
-  - Communities
-
-    - The Community's thumbnail, header and channel thumbnails must not contain any explicit content.
-    - Posts submitted to Communities that allow or feature NSFW content should not contain NSFW post media in their leads. Adult content can be included in articles of submitted posts only if proper warning is given in the posts' leads.
-    - Communities that allow NSFW content within designated channels should be diligent in keeping such content confined to the proper channels.
+Thank you for helping us keep Game Jolt friendly for all!
 
 ## Community ownership and moderation
 
@@ -149,6 +141,28 @@ Being the owner or moderator of a Community of users who share your interests on
   - Create Community channels that attack or target specific users.
   - Add Community rules that somehow violate Game Jolt’s ToS and/or Site Guidelines.
   - Instigate or contribute to drama within a Community by making public any sort of disagreements that have occurred among its collaborators.
+
+## Streaming
+
+Streaming is a fun and personal way to share your adventures and interact with friends and fans alike. We’re all about allowing our users to express their creativity, showcase their skills, and reveal their colorful personalities, and fireside streams are a great way of doing all three!
+
+Try following these tips to make sure your stream is noticed by as many as possible:
+
+- Post about your stream before it goes live. Inform potential viewers of the starting time and subject matter so they will know what to expect and when to expect it!
+- Make sure the title of the stream matches the content. For example, the title “Bleh” would not properly convey that you are streaming an intense action game!
+
+We also want to make sure that the content being streamed on Game Jolt is as safe as possible for all viewers, so we ask that you please adhere to the following rules:
+
+- Do not:
+
+  - Stream NSFW content.
+  - Violate copyright law by streaming videos and other content belonging to third parties without express permission from the property’s owner and/or the legal right to do so.
+  - Use streams to attack and/or expose individuals, groups, communities, ethnicities, religions, or other entities.
+
+As a streamer, it is your responsibility to ensure that the content of your stream’s chat does not violate Game Jolt’s Site Guidelines. To help limit unsolicited spam and other undesirable chat content, please consider the following suggestions:
+
+- Wisely and carefully select willing and responsible moderators to help manage your stream’s chat.
+- Do not leave your stream unattended for long periods of time, as doing so could encourage unwanted chat content and would not be respecting the time and energy of your moderators.
 
 ## User and Community verification
 
