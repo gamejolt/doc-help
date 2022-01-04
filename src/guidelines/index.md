@@ -104,18 +104,10 @@ The following offenses apply to all forms of content on Game Jolt including but 
 
 ## Adult content
 
-**Pornography, sexually explicit content, or gore of an illicit or realistic nature are not permitted on Game Jolt.**
+Help us keep Game Jolt friendly for all!
 
 - Do not post, upload, livestream, or share:
-- Content that depicts, solicits, promotes, normalizes, or glorifies sexual acts, sexual solicitation and sexual violence.
-
-We do not allow depictions, including digitally created or manipulated content, of nudity or sexual activity.
-
-We are mindful of content that may be offensive or culturally inappropriate in certain regions or may not be suitable for users of all ages.
-
-Game Jolt may allow other options for NSFW content in the future if/when a solution for proper moderation of such content is found.
-
-Thank you for helping us keep Game Jolt friendly for all!
+  - Content that is pornographic, sexually explicit, or contains gore of an illicit or realistic nature.
 
 ## Community ownership and moderation
 
